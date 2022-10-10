@@ -50,7 +50,7 @@ Regional: ID (Indonesia)
 
 -----------------------------------------
 
-For Information:
+**For Information:**
 
 #~ XDA
 - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.12117/)
@@ -66,24 +66,39 @@ For Information:
 - [Mirror](https://t.me/mirrorsweet) Channel
 -----------------------------------------
 
-MiFlash Unlock (Unlock Bootloader) :
+**MiFlash Unlock (Unlock Bootloader):**
 - [v6.5.406.31](https://drive.google.com/uc?id=146MgfP7uk7FQ76hhpypRlLg_S8psPtlI&export=download)
 
 -----------------------------------------
 
-MiFlash Tool:
+**MiFlash Tool:**
 - [v2018-11-15](https://drive.google.com/uc?id=1Inyf9Ny_J_NnDM8Mzbj70n9B4Yu9EWEt&export=download)
 > MD5: 10d7df3841e8594cf72d58358ffefbc2
 
 -----------------------------------------
 
-ADB & Fastboot (Windows):
+**ADB & Fastboot (Windows):**
 - [ADB](https://drive.google.com/uc?id=1ZoCF-M-UYfiHisheV5fevB9Nt5KhLh0C&export=download)
 - [Platform-tools](https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip)
 
 -----------------------------------------
 
-ROM MIUI:
+**Erase System Dynamic Partition**
+- Boot custom recovery (TWRP/Orangefox)
+- Enter the reboot menu
+- Choose fastboot reboot
+
+Run this command (cmd-windows):
+```
+- fastboot erase vendor
+- fastboot erase system
+- fastboot erase product
+- fastboot erase dtbo
+- fastboot erase boot
+```
+-----------------------------------------
+
+**ROM MIUI:**
 
 MIUI 13 (ID-Indonesia)
 - [V13.0.6.0.SKFIDXM (Recovery)](https://bigota.d.miui.com/V13.0.6.0.SKFIDXM/miui_SWEETIDGlobal_V13.0.6.0.SKFIDXM_9fe9117a8f_12.0.zip)
@@ -107,7 +122,7 @@ MIUI 12.5.x (ID-Indonesia)
 
 =========================================
 
-FW (Firmware) Only
+**FW (Firmware) Only**
 - [V13.0.12.0.SKFMIXM (Global)](https://osdn.dl.osdn.net/storage/g/x/xi/xiaomifirmwareupdater/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.12.0.SKFMIXM_bb277eed1f_12.0.zip)
 > MD5: 6eddd96dcb053f544a92363db505cffc
 
@@ -117,7 +132,7 @@ sources: https://xiaomifirmwareupdater.com/
 
 -----------------------------------------
 
-Custom Recovery:
+**Custom Recovery:**
 
 #~ Official (Android 11)
 - [TWRP Official](https://dl.twrp.me/sweet/)
@@ -128,8 +143,7 @@ Custom Recovery:
 - [R11.1_2 (beta)](https://drive.google.com/uc?id=1aSERUGbB8xku4cYEDDBR78ntTZ6Revxv&export=download)
 > MD5: 7cc0568ddb8f7f85a1e2464dfef9f1fe
 
-Unofficial (support: Android 12 & 13)
-<br />TWRP 3.6.2 - UNOFFICIAL
+TWRP 3.6.2 - UNOFFICIAL
 <br />Android 12/13.
 <br />Updated: 13/09/'22
 <br />by Nebrassy 
@@ -138,13 +152,13 @@ Unofficial (support: Android 12 & 13)
 
 -----------------------------------------
 
-Root
+**Root**
 - [Magisk](https://github.com/topjohnwu/Magisk)
 - [Universal SafetyNet-fix](https://github.com/kdrag0n/safetynet-fix)
 
 -----------------------------------------
 
-Custom ROM (AOSP)
+**Custom ROM (AOSP)**
 - [PixelOS](https://pixelos.net/download/sweet)
 - [ArrowOS](https://arrowos.net/download/sweet)
 - [crDroid](https://crdroid.net/downloads#sweet)
@@ -153,7 +167,7 @@ Custom ROM (AOSP)
 
 -----------------------------------------
 
-Etc
+**Etc**
 - Swift Backup: Backup Data+App (root only) [Playstore](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup&hl=en&gl=US)
 - [Optimizer](https://github.com/KelvinCrag/Optimizer)
 - [Double tap to lock screen (Xiaomi & Redmi) [MIUI-ONLY]](https://t.me/miatoz/217)
