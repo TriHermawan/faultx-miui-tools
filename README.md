@@ -139,8 +139,8 @@ Unofficial (support: Android 12 & 13)
 -----------------------------------------
 
 Root
-- [Magisk v25.2 (Official)](https://github.com/topjohnwu/Magisk/releases/download/v25.2/Magisk-v25.2.apk)
-- [Universal SafetyNet-fix (by kdrag0n)](https://github.com/kdrag0n/safetynet-fix/releases/download/v2.3.1/safetynet-fix-v2.3.1.zip)
+- [Magisk](https://github.com/topjohnwu/Magisk)
+- [Universal SafetyNet-fix](https://github.com/kdrag0n/safetynet-fix)
 
 -----------------------------------------
 
