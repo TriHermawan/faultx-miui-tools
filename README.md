@@ -5,7 +5,7 @@ Brand: Xiaomi
 Codename: Sweet 
 Regional: ID (Indonesia)
 ```
-> faultx | @Number666 `
+> faultx | @Number666
 
 -----------------------------------------
 
