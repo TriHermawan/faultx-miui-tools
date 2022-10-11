@@ -72,7 +72,7 @@ Regional: ID (Indonesia)
 -----------------------------------------
 
 **MiFlash Tool:**
-- [v2018-11-15](https://drive.google.com/uc?id=1Inyf9Ny_J_NnDM8Mzbj70n9B4Yu9EWEt&export=download)
+- [v2018-11-15](https://drive.google.com/uc?id=15Ka2J-xSmy9p7A9no6pW9BODkbH653GK&export=download)
 > MD5: 10d7df3841e8594cf72d58358ffefbc2
 
 -----------------------------------------
