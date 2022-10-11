@@ -9,8 +9,9 @@ Regional: ID (Indonesia)
 
 -----------------------------------------
 
-#~ List App name to debloat
-<br />:: Analytics
+**List App name to debloat**
+<br/>
+:: Analytics
 :: App Vault
 :: Backup
 :: Browser
