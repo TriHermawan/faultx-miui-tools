@@ -123,9 +123,8 @@ MIUI 12.5.x (ID-Indonesia)
 
 **FW (Firmware) Only**
 - [V13.0.12.0.SKFMIXM (Global)](https://osdn.dl.osdn.net/storage/g/x/xi/xiaomifirmwareupdater/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.12.0.SKFMIXM_bb277eed1f_12.0.zip)
-> MD5: 6eddd96dcb053f544a92363db505cffc
 
-**FW+Vendor**
+**FW + Vendor**
 - [Redmi Note 10Pro/Max](https://sourceforge.net/projects/sweet-fw-vendor/files/)
 
 
