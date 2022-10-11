@@ -53,14 +53,14 @@ Regional: ID (Indonesia)
 
 **For Information:**
 
-#~ XDA
+XDA
 - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.12117/)
 
-#~ Telegram Group
+Telegram Group
 - [Indonesia](https://t.me/RedmiNote10ProID)
 - [Global](https://t.me/RedmiNote10ProDiscussion)
 
-#~ Telegram Channel
+Telegram Channel
 - [Indonesia](https://t.me/RedmiNote10ProIDUpdate)
 - [Global](https://t.me/RedmiNote10ProChannel)
 - [Global (Photography)](https://t.me/RedmiNote10Pro_MaxPhotography)
@@ -135,7 +135,7 @@ MIUI 12.5.x (ID-Indonesia)
 
 **Custom Recovery:**
 
-#~ Official (Android 11)
+TWRP Official (Android 11)
 - [TWRP Official](https://dl.twrp.me/sweet/)
 - [3.6.2_11-0](https://drive.google.com/uc?id=1bvqte8gYK3TFdwKyZA2gtBpIynMg53QZ&export=download)
 > MD5: 3a7df222d1a591a1dacd0ea3577cdbb4
@@ -144,10 +144,9 @@ MIUI 12.5.x (ID-Indonesia)
 - [R11.1_2 (beta)](https://drive.google.com/uc?id=1aSERUGbB8xku4cYEDDBR78ntTZ6Revxv&export=download)
 > MD5: 7cc0568ddb8f7f85a1e2464dfef9f1fe
 
-TWRP 3.6.2 - UNOFFICIAL
-<br />Android 12/13.
-<br />Updated: 13/09/'22
-<br />by Nebrassy 
+TWRP UNOFFICIAL - 3.6.2 (Support Android 12/13)
+<br/>Updated: 13/09/'22
+<br/>by Nebrassy 
 - [Info](https://t.me/mirrorsweet/212)
 - [Download](https://drive.google.com/uc?id=10ZLHWjXXdzTqMX6yZ89-oYGECh98-3VH&export=download)
 
