@@ -1,4 +1,4 @@
-# faultx-miui-tools | Debloat MIUI 12.5.5 (Windows)
+# MIUI Tools For Windows
 ```
 Device: Redmi Note 10 Pro 
 Brand: Xiaomi 
