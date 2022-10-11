@@ -173,4 +173,7 @@ TWRP UNOFFICIAL - 3.6.2 (Support Android 12/13)
 - [Double tap to lock screen (Xiaomi & Redmi) [MIUI-ONLY]](https://t.me/miatoz/217)
 - [Google Splash Screen](https://t.me/mirrorsweet/45)
 - [NikGapps](https://sourceforge.net/projects/nikgapps/files/Releases/)
+- [ViPER4AndroidRepackaged](https://github.com/programminghoch10/ViPER4AndroidRepackaged)
+- [Termux](https://f-droid.org/en/packages/com.termux/)
+- [Custom DNS](https://pastebin.com/DTRu7aWJ)
 -----------------------------------------
