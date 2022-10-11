@@ -170,4 +170,5 @@ TWRP 3.6.2 - UNOFFICIAL
 - Swift Backup: Backup Data+App (root only) [Playstore](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup&hl=en&gl=US)
 - [Optimizer](https://github.com/KelvinCrag/Optimizer)
 - [Double tap to lock screen (Xiaomi & Redmi) [MIUI-ONLY]](https://t.me/miatoz/217)
+- [Google Splash Screen](https://t.me/mirrorsweet/45)
 -----------------------------------------
