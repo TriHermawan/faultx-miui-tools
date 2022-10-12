@@ -164,6 +164,7 @@ TWRP UNOFFICIAL - 3.6.2 (Support Android 12/13)
 - [crDroid](https://crdroid.net/downloads#sweet)
 - [EvolutionX](https://evolution-x.org/device/sweet)
 - [Pixel Experience](https://download.pixelexperience.org/sweet)
+- [ProjectElixir](https://projectelixiros.com/device/sweet)
 
 -----------------------------------------
 
