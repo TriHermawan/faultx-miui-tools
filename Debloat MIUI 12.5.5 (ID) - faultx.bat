@@ -59,6 +59,9 @@ PAUSE
 :: Yellow Pages
 :: YouTube
 :: Mobile Device Information Provider
+:: Wallpaper Carousel
+:: PartnerBookmarks
+:: Games
 
 :: adb shell pm uninstall --user 0 (package_name)
 adb shell pm uninstall --user 0 com.miui.analytics
@@ -79,7 +82,7 @@ adb shell pm uninstall --user 0 com.google.android.googlequicksearchbox
 adb shell pm uninstall --user 0 com.google.android.apps.googleassistant
 adb shell pm uninstall --user 0 com.android.chrome
 adb shell pm uninstall --user 0 com.google.android.apps.subscriptions.red
-adb shell pm uninstall --user 0 com.miui.hyrid.accessory
+adb shell pm uninstall --user 0 com.miui.hybrid.accessory
 adb shell pm uninstall --user 0 com.xiaomi.joyose
 adb shell pm uninstall --user 0 com.miui.msa.global
 adb shell pm uninstall --user 0 com.google.android.feedback
@@ -98,6 +101,9 @@ adb shell pm uninstall --user 0 com.miui.wmsvc
 adb shell pm uninstall --user 0 com.miui.yellowpage
 adb shell pm uninstall --user 0 com.google.android.youtube
 adb shell pm uninstall --user 0 com.amazon.appmanager
+adb shell pm uninstall --user 0 com.miui.android.fashiongallery
+adb shell pm uninstall --user 0 com.android.providers.partnerbookmarks
+adb shell pm uninstall --user 0 com.xiaomi.glgm
 echo All done.
 PAUSE
 exit
