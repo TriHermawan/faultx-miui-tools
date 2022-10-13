@@ -165,7 +165,7 @@ TWRP UNOFFICIAL - 3.6.2 (Support Android 12/13)
 - [EvolutionX](https://evolution-x.org/device/sweet)
 - [Pixel Experience](https://download.pixelexperience.org/sweet)
 - [ProjectElixir](https://projectelixiros.com/device/sweet)
-- [HvocOS](https://havoc-os.com/device#sweet)
+- [HavocOS](https://havoc-os.com/device#sweet)
 
 -----------------------------------------
 
