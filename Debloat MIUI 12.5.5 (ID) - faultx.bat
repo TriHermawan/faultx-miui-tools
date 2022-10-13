@@ -58,6 +58,7 @@ PAUSE
 :: WMService
 :: Yellow Pages
 :: YouTube
+:: Mobile Device Information Provider
 
 :: adb shell pm uninstall --user 0 (package_name)
 adb shell pm uninstall --user 0 com.miui.analytics
@@ -96,6 +97,7 @@ adb shell pm uninstall --user 0 com.sencent.soter.soterserver
 adb shell pm uninstall --user 0 com.miui.wmsvc
 adb shell pm uninstall --user 0 com.miui.yellowpage
 adb shell pm uninstall --user 0 com.google.android.youtube
+adb shell pm uninstall --user 0 com.amazon.appmanager
 echo All done.
 PAUSE
 exit
