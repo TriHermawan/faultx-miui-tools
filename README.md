@@ -49,6 +49,8 @@ Regional: ID (Indonesia)
 :: Yellow Pages
 :: YouTube
 
+* Run .bat
+
 -----------------------------------------
 
 **For Information:**
