@@ -77,6 +77,11 @@ Telegram Channel
 
 -----------------------------------------
 
+**Xiaomi Debloat Tool**
+- [XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)
+
+-----------------------------------------
+
 **ADB & Fastboot (Windows):**
 - [ADB](https://drive.google.com/uc?id=1ZoCF-M-UYfiHisheV5fevB9Nt5KhLh0C&export=download)
 - [Platform-tools](https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip)
