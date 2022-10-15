@@ -96,7 +96,7 @@ adb shell pm uninstall --user 0 com.miui.videoplayer
 adb shell pm uninstall --user 0 com.miui.player
 adb shell pm uninstall --user 0 com.miui.notes
 adb shell pm uninstall --user 0 com.miui.miservice
-adb shell pm uninstall --user 0 com.sencent.soter.soterserver
+adb shell pm uninstall --user 0 com.tencent.soter.soterserver
 adb shell pm uninstall --user 0 com.miui.wmsvc
 adb shell pm uninstall --user 0 com.miui.yellowpage
 adb shell pm uninstall --user 0 com.google.android.youtube
