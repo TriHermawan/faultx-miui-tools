@@ -106,6 +106,10 @@ Run this command (cmd-windows):
 **ROM MIUI:**
 
 MIUI 13 (ID-Indonesia)
+
+- [V13.0.7.0.SKFIDXM (Recovery)](https://bigota.d.miui.com/V13.0.7.0.SKFIDXM/miui_SWEETIDGlobal_V13.0.7.0.SKFIDXM_cc0059bbeb_12.0.zip)
+> MD5: cc0059bbebcfb9dc77a3034841345a70
+
 - [V13.0.6.0.SKFIDXM (Recovery)](https://bigota.d.miui.com/V13.0.6.0.SKFIDXM/miui_SWEETIDGlobal_V13.0.6.0.SKFIDXM_9fe9117a8f_12.0.zip)
 > MD5: 9fe9117a8f40e7f8e980e70329230e00
 
@@ -124,6 +128,8 @@ MIUI 12.5.x (ID-Indonesia)
 > MD5: c79a18451c547f27685a2d30490b56dc
 - [V12.5.4.0.RKFIDXM (Fastboot)](https://bigota.d.miui.com/V12.5.4.0.RKFIDXM/sweet_id_global_images_V12.5.4.0.RKFIDXM_20211116.0000.00_11.0_global_9e4db4e421.tgz)
 > MD5: 9e4db4e421220a2813792952d9becfdc
+
+[Sources](https://xiaomifirmwareupdater.com/miui/sweet/) 
 
 -----------------------------------------
 
@@ -163,6 +169,20 @@ TWRP UNOFFICIAL - 3.6.2 (Support Android 12/13)
 
 -----------------------------------------
 
+**How to install TWRP (Permanent)**
+- Enter into Fastboot mode
+- Type the following command and hit enter to check the fastboot device connected or not:
+``` fastboot devices ```
+- Now, in order to install TWRP Recovery on your phone, type the following command and press enter:
+``` fastboot flash recovery twrp-name.img ```
+- Press power + volume up button to boot TWRP
+- You can install Orangefox/TWRP again / install magisk (root) in TWRP to permanent custom recovery
+- Done
+
+> if 0 (MB) occurs, you must format the data (data is lost) so that it is decrypted (boot twrp>wipe>format data type "yes")
+
+-----------------------------------------
+
 **Custom ROM (AOSP)**
 - [PixelOS](https://pixelos.net/download/sweet)
 - [ArrowOS](https://arrowos.net/download/sweet)
@@ -183,4 +203,11 @@ TWRP UNOFFICIAL - 3.6.2 (Support Android 12/13)
 - [ViPER4AndroidRepackaged](https://github.com/programminghoch10/ViPER4AndroidRepackaged)
 - [Termux](https://f-droid.org/en/packages/com.termux/)
 - [Custom DNS](https://pastebin.com/DTRu7aWJ)
+- Fix "Open support link" MIUI 13 Android 12
+  * Download [Hidden Settings For MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets)
+  * Open "Manage application"
+  * example, choose Youtube
+  * Open by default
+  * Add link
+  * Done
 -----------------------------------------
