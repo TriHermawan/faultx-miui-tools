@@ -210,4 +210,7 @@ TWRP UNOFFICIAL - 3.6.2 (Support Android 12/13)
   * Open by default
   * Add link
   * Done
+ 
+ - Check/Test MD5 hash [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid&feature=related_apps) | [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&hl=en&gl=US)
+ 
 -----------------------------------------
