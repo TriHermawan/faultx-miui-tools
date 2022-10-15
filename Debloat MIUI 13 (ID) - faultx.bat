@@ -1,5 +1,5 @@
 :: ===========================================================
-::  This batch script for debloat MIUI V13.0.RKFIDXM (ID) 
+::  This batch script for debloat MIUI 13 RKFIDXM (ID) 
 ::  Device: Redmi Note 10 Pro {sweet}
 ::  #~ faultx | @Number666
 :: ===========================================================
