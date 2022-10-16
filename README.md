@@ -32,7 +32,6 @@ Regional: ID (Indonesia)
 :: MSA
 :: Market Feedback Agent
 :: MiCalendar
-
 :: MiConnectService
 :: MiPlayClient
 :: MiCredit
