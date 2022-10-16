@@ -168,7 +168,7 @@ TWRP UNOFFICIAL - 3.6.2 (Support Android 12/13)
 
 -----------------------------------------
 
-### How to install TWRP (Permanent)
+### Install TWRP (Permanent)
 - Enter into Fastboot mode
 - Type the following command and hit enter to check the fastboot device connected or not:
 ``` fastboot devices ```
