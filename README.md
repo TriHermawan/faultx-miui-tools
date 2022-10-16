@@ -32,7 +32,7 @@ Regional: ID (Indonesia)
 :: MSA
 :: Market Feedback Agent
 :: MiCalendar
-:: Miui Daemon
+
 :: MiConnectService
 :: MiPlayClient
 :: MiCredit
