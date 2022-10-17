@@ -172,7 +172,7 @@ TWRP UNOFFICIAL - 3.6.2 (Support Android 12/13)
 - Now, in order to install TWRP Recovery on your phone, type the following command and press enter:
 ``` fastboot flash recovery twrp-name.img ```
 - Press power + volume up button to boot TWRP
-- You can install Orangefox/TWRP again / install magisk (root) in TWRP to permanent custom recovery
+- Install magisk (root) in TWRP to permanent custom recovery
 - Done
 
 > if 0 (MB) occurs, you must format the data (data is lost) so that it is decrypted (boot twrp>wipe>format data type "yes")
