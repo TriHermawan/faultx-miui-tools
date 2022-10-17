@@ -9,6 +9,8 @@ Regional: ID (Indonesia)
 
 -----------------------------------------
 
+> Requirement: ADB installed
+
 **List App name to debloat**
 <br/>
 :: Analytics
