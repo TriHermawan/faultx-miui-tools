@@ -1,6 +1,6 @@
 @echo off
 title Erase Partition!! - @Number666
-echo ERASE Partition system, vendor, product, dtbo, boot. [all data will be deleted]
+echo ERASE Partition system - vendor. [all data will be deleted]
 echo ====================================================================================
 echo I'm not responsible for bricked devices, dead SD cards, thermonuclear war,
 echo * YOU are choosing to make these modifications, and if you point
@@ -11,9 +11,9 @@ echo Press Enter to execution!!
 PAUSE
 fastboot erase vendor
 fastboot erase system
-fastboot erase product
-fastboot erase dtbo
-fastboot erase boot
+:: fastboot erase product
+:: fastboot erase dtbo
+:: fastboot erase boot
 echo Done..
 PAUSE
 exit
