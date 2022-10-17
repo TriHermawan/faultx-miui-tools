@@ -98,9 +98,6 @@ Run this command (cmd-windows):
 ```
 - fastboot erase vendor
 - fastboot erase system
-- fastboot erase product
-- fastboot erase dtbo
-- fastboot erase boot
 ```
 -----------------------------------------
 
