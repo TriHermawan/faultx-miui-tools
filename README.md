@@ -159,6 +159,12 @@ TWRP UNOFFICIAL - 3.6.2 (Support Android 12/13)
 - [Info](https://t.me/mirrorsweet/212)
 - [Download](https://drive.google.com/uc?id=10ZLHWjXXdzTqMX6yZ89-oYGECh98-3VH&export=download)
 
+OrangeFox Recovery 12.1_3 BETA - UNOFFICIAL | Android 12/13.
+<br/>Updated: 18/10/'22
+<br/>By @Aryannn999 && @Vantom
+- [Info](https://t.me/mirrorsweet/250)
+- [Download](https://drive.google.com/uc?id=1n41y5ykPvxQXusJWxQZufHWqzem9Cc2I&export=download)
+
 -----------------------------------------
 
 ### Root
