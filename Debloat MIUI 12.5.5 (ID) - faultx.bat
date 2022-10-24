@@ -1,5 +1,5 @@
 :: ===========================================================
-::  This batch script for debloat MIUI V12.5.5.0.RKFIDXM (ID) 
+::  This batch script for debloat MIUI 12 RKFIDXM (ID) 
 ::  Device: Redmi Note 10 Pro {sweet}
 ::  #~ faultx | @Number666
 :: ===========================================================
@@ -12,7 +12,7 @@ echo the finger at me for messing up your device, I will laugh at you!!
 echo * Your warranty will be void if you tamper with any part of your device / software.
 echo ====================================================================================
 
-title Debloat MIUI 12.5.5 (ID) - faultx - @Number666
+title Debloat MIUI 12 (ID) - faultx - @Number666
 echo (Uninstall System apps ROM)
 adb devices
 echo Give permission on your devices if Unauthorized.
