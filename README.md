@@ -198,6 +198,10 @@ OrangeFox Recovery 12.1_3 BETA - UNOFFICIAL | Android 12/13.
 - [Bliss Roms](https://downloads.blissroms.org/download/sweet/)
 - [CarbonROM](https://get.carbonrom.org/device-sweet.html)
 
+### Custom ROM (MIUI)
+- [MIUI by EU V13.0.14.0.SKFMIXM](https://t.me/mirrorsweet/256)
+- [MIUI by EU V12.5.9.0.RKFMIXM](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMNote10Pro_V12.5.9.0.RKFMIXM_v12-11.zip/download)
+
 -----------------------------------------
 
 ### Etc
