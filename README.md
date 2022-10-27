@@ -129,7 +129,7 @@ MIUI 12.5.x (ID-Indonesia)
 - [V12.5.4.0.RKFIDXM (Fastboot)](https://bigota.d.miui.com/V12.5.4.0.RKFIDXM/sweet_id_global_images_V12.5.4.0.RKFIDXM_20211116.0000.00_11.0_global_9e4db4e421.tgz)
 > MD5: 9e4db4e421220a2813792952d9becfdc
 
-[Sources](https://xiaomifirmwareupdater.com/miui/sweet/) 
+[Sources](https://xiaomifirmwareupdater.com/archive/miui/sweet/) 
 
 -----------------------------------------
 ### Firmware for Redmi Note 10 Pro
