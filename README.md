@@ -196,6 +196,7 @@ OrangeFox Recovery 12.1_3 BETA - UNOFFICIAL | Android 12/13.
 - [ProjectElixir](https://projectelixiros.com/device/sweet)
 - [HavocOS](https://havoc-os.com/device#sweet)
 - [Bliss Roms](https://downloads.blissroms.org/download/sweet/)
+- [CarbonROM](https://get.carbonrom.org/device-sweet.html)
 
 -----------------------------------------
 
