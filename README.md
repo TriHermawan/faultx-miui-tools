@@ -49,7 +49,11 @@ Regional: ID (Indonesia)
 :: WMService
 :: Yellow Pages
 :: YouTube
-
+:: Email
+:: Google Lens
+:: Healt
+:: Mi Mover
+:: Mi Browser
 * Run .bat
 
 -----------------------------------------
