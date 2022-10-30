@@ -61,6 +61,11 @@ PAUSE
 :: Wallpaper Carousel
 :: PartnerBookmarks
 :: Games
+:: Email
+:: Google Lens
+:: Healt
+:: Mi Mover
+:: Mi Browser
 
 :: adb shell pm uninstall --user 0 (package_name)
 adb shell pm uninstall --user 0 com.miui.analytics
@@ -103,6 +108,16 @@ adb shell pm uninstall --user 0 com.amazon.appmanager
 :: adb shell pm uninstall --user 0 com.miui.android.fashiongallery
 adb shell pm uninstall --user 0 com.android.providers.partnerbookmarks
 :: adb shell pm uninstall --user 0 com.xiaomi.glgm
+
+::----------------------------------------
+:: Miui.EU
+
+adb shell pm uninstall --user 0 com.android.email
+adb shell pm uninstall --user 0 com.google.ar.lens
+adb shell pm uninstall --user 0 com.mi.health
+adb shell pm uninstall --user 0 com.miui.huanji
+adb shell pm uninstall --user 0 com.mi.globalbrowser
+echo.
 echo All done.
 PAUSE
 exit
