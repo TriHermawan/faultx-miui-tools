@@ -203,6 +203,7 @@ OrangeFox Recovery 12.1_3 BETA - UNOFFICIAL | Android 12/13.
 - [CarbonROM](https://get.carbonrom.org/device-sweet.html)
 - [PixelPlusUI](https://ppui.site/device/sweet)
 - [DotOS](https://www.droidontime.com/devices/sweet)
+- [Corvus OS](https://downloads.corvusrom.com/?dir=sweet)
 
 ### Custom ROM (MIUI)
 - [MIUI by EU V13.0.14.0.SKFMIXM](https://t.me/mirrorsweet/256)
