@@ -81,6 +81,7 @@ Telegram Channel
 
 ### MiFlash Tool
 - [v2018-11-15](https://drive.google.com/uc?id=15Ka2J-xSmy9p7A9no6pW9BODkbH653GK&export=download)
+- [2020-3-14-0](https://drive.google.com/uc?id=1SbJ5ktWk6rz2APaCauwnNy4DJ3rs8t5s&export=download)
 
 -----------------------------------------
 
