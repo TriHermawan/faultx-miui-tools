@@ -174,6 +174,7 @@ OrangeFox Recovery 12.1_3 BETA - UNOFFICIAL | Android 12/13.
 
 ### Root
 - [Magisk](https://github.com/topjohnwu/Magisk)
+- [Magisk Delta](https://huskydg.github.io/magisk-files/)
 - [Universal SafetyNet-fix](https://github.com/kdrag0n/safetynet-fix)
 
 -----------------------------------------
