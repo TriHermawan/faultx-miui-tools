@@ -110,31 +110,8 @@ Run this command (cmd-windows):
 
 ### ROM MIUI
 
-MIUI 13 (ID-Indonesia)
+- [Download](https://xiaomifirmwareupdater.com/archive/miui/sweet/) (Xiaomi Firmware Updater)
 
-- [V13.0.7.0.SKFIDXM (Recovery)](https://bigota.d.miui.com/V13.0.7.0.SKFIDXM/miui_SWEETIDGlobal_V13.0.7.0.SKFIDXM_cc0059bbeb_12.0.zip)
-> MD5: cc0059bbebcfb9dc77a3034841345a70
-
-- [V13.0.6.0.SKFIDXM (Recovery)](https://bigota.d.miui.com/V13.0.6.0.SKFIDXM/miui_SWEETIDGlobal_V13.0.6.0.SKFIDXM_9fe9117a8f_12.0.zip)
-> MD5: 9fe9117a8f40e7f8e980e70329230e00
-
-- [V13.0.4.0.SKFIDXM (Recovery)](https://bigota.d.miui.com/V13.0.4.0.SKFIDXM/miui_SWEETIDGlobal_V13.0.4.0.SKFIDXM_9c902b3c2c_12.0.zip)
-> MD5: 9c902b3c2ccbed33a8dd8fa105b42232
-- [V13.0.4.0.SKFIDXM (Fastboot)](https://bigota.d.miui.com/V13.0.4.0.SKFIDXM/sweet_id_global_images_V13.0.4.0.SKFIDXM_20220518.0000.00_12.0_global_7954abd026.tgz)
-> MD5: 7954abd0266ddd853a0447feb023f20d
-
-MIUI 12.5.x (ID-Indonesia)
-- [V12.5.5.0.RKFIDXM (Recovery)](https://bigota.d.miui.com/V12.5.5.0.RKFIDXM/miui_SWEETIDGlobal_V12.5.5.0.RKFIDXM_daa6afffec_11.0.zip)
-> MD5: daa6afffec2df0e21bc0b6affa0623df
-- [V12.5.5.0.RKFIDXM (Fastboot)](https://bigota.d.miui.com/V12.5.5.0.RKFIDXM/sweet_id_global_images_V12.5.5.0.RKFIDXM_20220216.0000.00_11.0_global_edc381fab7.tgz)
-> MD5: edc381fab73d51cffdecab9f0b3fa843
-
-- [V12.5.4.0.RKFIDXM (Recovery)](https://bigota.d.miui.com/V12.5.4.0.RKFIDXM/miui_SWEETIDGlobal_V12.5.4.0.RKFIDXM_c79a18451c_11.0.zip)
-> MD5: c79a18451c547f27685a2d30490b56dc
-- [V12.5.4.0.RKFIDXM (Fastboot)](https://bigota.d.miui.com/V12.5.4.0.RKFIDXM/sweet_id_global_images_V12.5.4.0.RKFIDXM_20211116.0000.00_11.0_global_9e4db4e421.tgz)
-> MD5: 9e4db4e421220a2813792952d9becfdc
-
-[Sources](https://xiaomifirmwareupdater.com/archive/miui/sweet/) 
 
 -----------------------------------------
 ### Firmware for Redmi Note 10 Pro
