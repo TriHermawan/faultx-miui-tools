@@ -117,7 +117,7 @@ Run this command (cmd-windows):
 ### Firmware for Redmi Note 10 Pro
 
 **FW (Firmware) Only**
-- [V13.0.15.0.SKFMIXM (GLobal)](https://osdn.dl.osdn.net/storage/g/x/xi/xiaomifirmwareupdater/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.15.0.SKFMIXM_872d66a0a6_12.0.zip)
+- [V13.0.15.0.SKFMIXM (Global)](https://osdn.dl.osdn.net/storage/g/x/xi/xiaomifirmwareupdater/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.15.0.SKFMIXM_872d66a0a6_12.0.zip)
 - [V13.0.16.0.SKFEUXM (Europe)](https://osdn.dl.osdn.net/storage/g/x/xi/xiaomifirmwareupdater/Stable/V13/sweet/fw_sweet_miui_SWEETEEAGlobal_V13.0.16.0.SKFEUXM_37bbd7e56e_12.0.zip)
 - [V13.0.12.0.SKFMIXM (Global)](https://osdn.dl.osdn.net/storage/g/x/xi/xiaomifirmwareupdater/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.12.0.SKFMIXM_bb277eed1f_12.0.zip)
 
