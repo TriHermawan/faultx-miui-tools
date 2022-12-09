@@ -117,6 +117,8 @@ Run this command (cmd-windows):
 ### Firmware for Redmi Note 10 Pro
 
 **FW (Firmware) Only**
+- [V13.0.15.0.SKFMIXM (GLobal)](https://osdn.dl.osdn.net/storage/g/x/xi/xiaomifirmwareupdater/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.15.0.SKFMIXM_872d66a0a6_12.0.zip)
+- [V13.0.16.0.SKFEUXM (Europe)](https://osdn.dl.osdn.net/storage/g/x/xi/xiaomifirmwareupdater/Stable/V13/sweet/fw_sweet_miui_SWEETEEAGlobal_V13.0.16.0.SKFEUXM_37bbd7e56e_12.0.zip)
 - [V13.0.12.0.SKFMIXM (Global)](https://osdn.dl.osdn.net/storage/g/x/xi/xiaomifirmwareupdater/Stable/V13/sweet/fw_sweet_miui_SWEETGlobal_V13.0.12.0.SKFMIXM_bb277eed1f_12.0.zip)
 
 **FW + Vendor**
@@ -128,7 +130,7 @@ Run this command (cmd-windows):
 
 TWRP Official (Android 11)
 - [TWRP Official](https://dl.twrp.me/sweet/)
-- [3.6.2_11-0](https://drive.google.com/uc?id=1bvqte8gYK3TFdwKyZA2gtBpIynMg53QZ&export=download)
+- [3.6.2_11-0 (Android 11)](https://drive.google.com/uc?id=1bvqte8gYK3TFdwKyZA2gtBpIynMg53QZ&export=download)
 > MD5: 3a7df222d1a591a1dacd0ea3577cdbb4
 
 - [OrangeFox Official](https://orangefox.download/device/sweet)
