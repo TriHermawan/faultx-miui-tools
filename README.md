@@ -186,6 +186,10 @@ OrangeFox Recovery 12.1_3 BETA - UNOFFICIAL | Android 12/13.
 - [DotOS](https://www.droidontime.com/devices/sweet)
 - [Corvus OS](https://downloads.corvusrom.com/?dir=sweet)
 
+### Custom Kernel (support ln8000 Charging)
+- [KewL Kernel](https://t.me/sweet_dish/53525)
+- [Omnitrix Kernel](https://t.me/omnitrixsweet)
+
 ### Custom ROM (MIUI)
 - [MIUI by EU V13.0.15.0.SKFMIXM](https://t.me/mirrorsweet/289)
 - [MIUI by EU V13.0.14.0.SKFMIXM](https://t.me/mirrorsweet/256)
