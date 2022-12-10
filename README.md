@@ -171,6 +171,7 @@ Run this command (cmd-windows):
 - [PixelPlusUI](https://ppui.site/device/sweet)
 - [DotOS](https://www.droidontime.com/devices/sweet)
 - [Corvus OS](https://downloads.corvusrom.com/?dir=sweet)
+- [NusantaraProject](https://nusantararom.org/device/sweet/)
 
 ### Custom Kernel (support ln8000 Charging)
 - [KewL Kernel](https://t.me/sweet_dish/53525)
