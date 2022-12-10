@@ -128,33 +128,19 @@ Run this command (cmd-windows):
 
 ### Custom Recovery
 
-TWRP Official (Android 11)
 - [TWRP Official](https://dl.twrp.me/sweet/)
-- [3.6.2_11-0 (Android 11)](https://drive.google.com/uc?id=1bvqte8gYK3TFdwKyZA2gtBpIynMg53QZ&export=download)
-> MD5: 3a7df222d1a591a1dacd0ea3577cdbb4
-
+- [TWRP 3.6.2_11-0 Official (Android 11)](https://drive.google.com/uc?id=1bvqte8gYK3TFdwKyZA2gtBpIynMg53QZ&export=download)
 - [OrangeFox Official](https://orangefox.download/device/sweet)
-- [R11.1_2 (beta)](https://drive.google.com/uc?id=1aSERUGbB8xku4cYEDDBR78ntTZ6Revxv&export=download)
-> MD5: 7cc0568ddb8f7f85a1e2464dfef9f1fe
+- [OrangeFox Recovery 12.1_3 BETA - UNOFFICIAL By @Aryannn999 && @Vantom (Support Android 12/13)](https://t.me/mirrorsweet/250)
+- [KewL TWRP 3.6.2 Support Android 12/13](https://sourceforge.net/projects/android-sweet/files/recovery/)
 
-TWRP UNOFFICIAL - 3.6.2 (Support Android 12/13)
-<br/>Updated: 13/09/'22
-<br/>by Nebrassy 
-- [Info](https://t.me/mirrorsweet/212)
-- [Download](https://drive.google.com/uc?id=10ZLHWjXXdzTqMX6yZ89-oYGECh98-3VH&export=download)
-
-OrangeFox Recovery 12.1_3 BETA - UNOFFICIAL | Android 12/13.
-<br/>Updated: 18/10/'22
-<br/>By @Aryannn999 && @Vantom
-- [Info](https://t.me/mirrorsweet/250)
-- [Download](https://drive.google.com/uc?id=1n41y5ykPvxQXusJWxQZufHWqzem9Cc2I&export=download)
 
 -----------------------------------------
 
 ### Root
-- [Magisk](https://github.com/topjohnwu/Magisk)
-- [Magisk Delta](https://huskydg.github.io/magisk-files/)
-- [Universal SafetyNet-fix](https://github.com/kdrag0n/safetynet-fix)
+- [Magisk - Official](https://github.com/topjohnwu/Magisk/releases)
+- [Magisk Delta - Unofficial](https://huskydg.github.io/magisk-files/)
+- [Universal SafetyNet-fix](https://github.com/kdrag0n/safetynet-fix/releases)
 
 -----------------------------------------
 
@@ -190,7 +176,7 @@ OrangeFox Recovery 12.1_3 BETA - UNOFFICIAL | Android 12/13.
 - [KewL Kernel](https://t.me/sweet_dish/53525)
 - [Omnitrix Kernel](https://t.me/omnitrixsweet)
 
-### Custom ROM (MIUI)
+### Custom ROM MIUI EU
 - [MIUI by EU V13.0.15.0.SKFMIXM](https://t.me/mirrorsweet/289)
 - [MIUI by EU V13.0.14.0.SKFMIXM](https://t.me/mirrorsweet/256)
 - [MIUI by EU V12.5.9.0.RKFMIXM](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMNote10Pro_V12.5.9.0.RKFMIXM_v12-11.zip/download)
