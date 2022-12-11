@@ -66,11 +66,12 @@ XDA
 Telegram Group
 - [Indonesia](https://t.me/RedmiNote10ProID)
 - [Global](https://t.me/RedmiNote10ProDiscussion)
+- [Global (Photography)](https://t.me/RedmiNote10Pro_MaxPhotography)
 
 Telegram Channel
 - [Indonesia](https://t.me/RedmiNote10ProIDUpdate)
 - [Global](https://t.me/RedmiNote10ProChannel)
-- [Global (Photography)](https://t.me/RedmiNote10Pro_MaxPhotography)
+- [Redmi Note 10 Pro/Max GCam and XMLs](https://t.me/RedmiNote10ProPhotographyChannel)
 - [Mirror](https://t.me/mirrorsweet) Channel
 -----------------------------------------
 
