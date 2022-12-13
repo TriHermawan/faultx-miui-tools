@@ -129,11 +129,10 @@ Run this command (cmd-windows):
 
 ### Custom Recovery
 
-- [TWRP Official](https://dl.twrp.me/sweet/)
-- [TWRP 3.6.2_11-0 Official (Android 11)](https://drive.google.com/uc?id=1bvqte8gYK3TFdwKyZA2gtBpIynMg53QZ&export=download)
+- [TWRP Official](https://dl.twrp.me/sweet/) | For Android 11 [Download](https://drive.google.com/uc?id=1bvqte8gYK3TFdwKyZA2gtBpIynMg53QZ&export=download)
 - [OrangeFox Official](https://orangefox.download/device/sweet)
-- [OrangeFox Recovery 12.1_3 BETA - UNOFFICIAL By @Aryannn999 && @Vantom (Support Android 12/13)](https://t.me/mirrorsweet/250)
-- [KewL TWRP 3.6.2 Support Android 12/13](https://sourceforge.net/projects/android-sweet/files/recovery/)
+- [OrangeFox](https://sourceforge.net/projects/orangefox-releases/files/sweet/) | [TWRP](https://sourceforge.net/projects/twrp-releases/files/Sweet/) Unofficial by Aryan (Support Android 12/13)
+- [KewL TWRP 3.6.2](https://sourceforge.net/projects/android-sweet/files/recovery/) (Support Android 12/13)
 
 
 -----------------------------------------
