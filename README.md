@@ -118,7 +118,7 @@ Run this command (cmd-windows):
 ### Firmware for Redmi Note 10 Pro
 
 **FW (Firmware) Only**
-- [Download](https://xiaomifirmwareupdater.com/archive/firmware/sweet/)
+- [Download](https://t.me/mirrorsweet/331)
 
 **FW + Vendor**
 - [Redmi Note 10Pro/Max](https://sourceforge.net/projects/sweet-fw-vendor/files/)
