@@ -172,11 +172,6 @@ Run this command (cmd-windows):
 - [Project-Xtended](https://downloads.project-xtended.org/?dir=sweet)
 - [NusantaraProject](https://nusantararom.org/device/sweet/)
 
-### Custom Kernel (support ln8000 Charging)
-- [KewL Kernel](https://t.me/sweet_dish/53525)
-- [Omnitrix Kernel](https://t.me/omnitrixsweet)
-- [Sleepy Kernel](https://t.me/sleepycompany/73451)
-
 ### Custom ROM MIUI EU
 - [MIUI by EU V13.0.15.0.SKFMIXM](https://t.me/mirrorsweet/289)
 - [MIUI by EU V13.0.14.0.SKFMIXM](https://t.me/mirrorsweet/256)
