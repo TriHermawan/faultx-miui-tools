@@ -1,4 +1,4 @@
-# MIUI Tools For Windows
+# MIUI Tools
 ```
 Device: Redmi Note 10 Pro 
 Brand: Xiaomi 
