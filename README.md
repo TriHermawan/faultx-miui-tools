@@ -54,8 +54,10 @@ Regional: ID (Indonesia)
 :: Healt
 :: Mi Mover
 :: Mi Browser
-* Run .bat
-
+```
+* Windows user = run .bat
+* Linux/macOS user = $ chmod +x .sh
+```
 -----------------------------------------
 
 ### For Information
