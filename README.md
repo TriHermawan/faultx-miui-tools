@@ -54,6 +54,7 @@ Regional: ID (Indonesia)
 :: Healt
 :: Mi Mover
 :: Mi Browser
+:: Game Center
 ```
 * Windows user = run .bat
 * Linux/macOS user = $ chmod +x .sh
