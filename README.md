@@ -95,7 +95,7 @@ Telegram Channel
 -----------------------------------------
 
 ### ADB & Fastboot (Windows)
-- [ADB](https://drive.google.com/uc?id=1ZoCF-M-UYfiHisheV5fevB9Nt5KhLh0C&export=download)
+- [ADB](https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/)
 - [Platform-tools](https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip)
 
 -----------------------------------------
