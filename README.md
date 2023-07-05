@@ -184,7 +184,7 @@ Run this command (cmd-windows):
 
 ### Etc
 - Swift Backup: Backup Data+App (root only) [Playstore](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup&hl=en&gl=US)
-- [YouTube & YouTube Music ReVanced](https://t.me/mirrorsweet/333)
+- [YouTube & YouTube Music ReVanced](https://telegra.ph/YouTube--YouTube-Music-ReVanced-Non-Root-07-05)
 - [Optimizer](https://github.com/KelvinCrag/Optimizer)
 - [Double tap to lock screen (Xiaomi & Redmi) [MIUI-ONLY]](https://t.me/miatoz/217)
 - [Google Splash Screen](https://t.me/mirrorsweet/45)
