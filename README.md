@@ -90,7 +90,7 @@ Telegram Channel
 -----------------------------------------
 
 ### Xiaomi Debloat Tool
-- [XiaomiADBFastbootTools](https://drive.google.com/file/d/1mXvexk4l2wksUPhNAYgM84xm6I_5atbo/view?usp=sharing) | Need JDK for run (.jar) [Windows, macOS, Linux](https://www.oracle.com/java/technologies/downloads/)
+- [XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing) | Need JDK for run (.jar) [Windows, macOS, Linux](https://www.oracle.com/java/technologies/downloads/)
 
 -----------------------------------------
 
