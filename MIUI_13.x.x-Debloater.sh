@@ -58,4 +58,4 @@ adb shell pm uninstall --user 0 com.google.ar.lens
 adb shell pm uninstall --user 0 com.mi.health
 adb shell pm uninstall --user 0 com.miui.huanji
 adb shell pm uninstall --user 0 com.mi.globalbrowser
-echo "------ [ Done ]------"
+echo "------ [ Done ] ------"
