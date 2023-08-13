@@ -54,4 +54,4 @@ adb shell pm uninstall --user 0 com.amazon.appmanager
 adb shell pm uninstall --user 0 com.miui.android.fashiongallery
 adb shell pm uninstall --user 0 com.android.providers.partnerbookmarks
 adb shell pm uninstall --user 0 com.xiaomi.glgm
-echo "------ [ Done ]------"
+echo "------ [ Done ] ------"
