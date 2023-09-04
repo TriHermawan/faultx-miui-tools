@@ -160,6 +160,7 @@ Run this command (cmd-windows):
 -----------------------------------------
 
 ### Custom ROM (AOSP)
+- [LineageOS](https://forum.xda-developers.com/t/rom-13-official-lineageos-20-for-redmi-note-10-pro-redmi-note-10-pro-max.4622953/)
 - [PixelOS](https://pixelos.net/download/sweet)
 - [ArrowOS](https://arrowos.net/download/sweet)
 - [crDroid](https://crdroid.net/downloads#sweet)
