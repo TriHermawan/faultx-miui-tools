@@ -6,7 +6,6 @@
 color 0a
 title Flash LineageOS Official - Redmi Note 10 Pro [sweet]
 echo.
-echo * faultx - https://t.me/Number666
 echo.
 echo ====================================================================================
 echo I'm not responsible for bricked devices, dead SD cards, thermonuclear war,
@@ -20,6 +19,7 @@ echo ===========================================================================
 echo.
 echo.
 echo  Script for install LineageOS Redmi Note 10 Pro [sweet]
+echo * faultx - https://t.me/Number666
 echo. ------------------------------------------------------
 echo * MODE:
 fastboot devices
