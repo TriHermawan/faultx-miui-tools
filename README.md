@@ -84,9 +84,8 @@ Telegram Channel
 -----------------------------------------
 
 ### MiFlash Tool
-- [v2018-11-15](https://drive.google.com/u/0/uc?id=1yr9fC4_D0GCaQP2dpqtEDcLzdZwsp7yl&export=download)
-- [2020-3-14-0](https://drive.google.com/u/0/uc?id=1EHpPdhaHaCEsextce6tsR9xk7bcuBrvz&export=download)
-
+- [Download] (https://cloud03.faultx.workers.dev/0:/PUBLIC/Android%20Tools/MiFlash%20Tools/)
+  
 -----------------------------------------
 
 ### Xiaomi Debloat Tool
