@@ -31,7 +31,7 @@ adb shell pm uninstall --user 0 com.google.android.apps.googleassistant
 adb shell pm uninstall --user 0 com.android.chrome
 adb shell pm uninstall --user 0 com.google.android.apps.subscriptions.red
 adb shell pm uninstall --user 0 com.miui.hybrid.accessory
-adb shell pm uninstall --user 0 com.xiaomi.joyose
+# adb shell pm uninstall --user 0 com.xiaomi.joyose
 adb shell pm uninstall --user 0 com.miui.msa.global
 adb shell pm uninstall --user 0 com.google.android.feedback
 adb shell pm uninstall --user 0 com.xiaomi.calendar
