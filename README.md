@@ -84,7 +84,7 @@ Telegram Channel
 -----------------------------------------
 
 ### MiFlash Tool
-- [Download](https://cloud03.faultx.workers.dev/0:/PUBLIC/Android%20Tools/MiFlash%20Tools/)
+- [Download]([https://cloud03.faultx.workers.dev/0:/PUBLIC/Android%20Tools/MiFlash%20Tools/](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/))
   
 -----------------------------------------
 
