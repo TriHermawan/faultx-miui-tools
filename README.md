@@ -79,7 +79,7 @@ Telegram Channel
 -----------------------------------------
 
 ### MiFlash Unlock (Unlock Bootloader)
-- [Download](https://en.miui.com/unlock/download_en.html)
+- [Download](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view)
 
 -----------------------------------------
 
