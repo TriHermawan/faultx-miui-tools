@@ -105,7 +105,7 @@ adb shell pm uninstall --user 0 com.android.providers.partnerbookmarks
 adb shell pm uninstall --user 0 com.xiaomi.glgm
 adb shell pm uninstall --user 0 com.google.android.apps.tachyon
 adb shell pm uninstall --user 0 com.google.android.videos
-adb shell pm uninstall --user 0 com.google.apps.youtube.music
+adb shell pm uninstall --user 0 com.google.android.apps.youtube.music
 echo All done.
 PAUSE
 exit
