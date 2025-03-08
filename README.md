@@ -113,7 +113,7 @@ Run this command (cmd-windows):
 
 ### ROM MIUI
 
-- [Download](https://xiaomifirmwareupdater.com/archive/miui/sweet/) (Xiaomi Firmware Updater)
+- [Download]([https://xiaomifirmwareupdater.com/archive/miui/sweet/](https://xmfirmwareupdater.com/archive/miui/sweet/)) (Xiaomi Firmware Updater)
 
 
 -----------------------------------------
