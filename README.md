@@ -1,15 +1,12 @@
 >[!Caution]
->```
 >I'm not responsible for bricked devices, dead SD cards, thermonuclear war,
 >YOU are choosing to make these modifications, and if you point
 >he finger at me for messing up your device, I will laugh at you!!**
 >Your warranty will be void if you tamper with any part of your device / software.
->```
------------------------------------------
-
+>
 > [FaultX | @Number666](https://t.me/mirrorsweet)
 
------------------------------------------
+---
 
 ![](sweet.png)
 
@@ -35,9 +32,12 @@ Released March 2021
 | Dimensions | 164 mm (6.46 in) (h), 76.5 mm (3.01 in) (w), 8.1 mm (0.32 in) (d) |
 | Battery | Non-removable Li-Po 5020 mAh |
 
------------------------------------------
+---
 
 # MIUI Official ROMs Archive | Redmi Note 10 Pro (sweet)
+
+> [!WARNING]
+> Make sure to download exact firmware for your model. You can discern your model from Settings > About phone > MIUI version (Eg: In MIUI version V14.0.9.0.TKF<ins>**MI**</ins>XM ‘<ins>**MI**</ins>’ represents your phone region, which is <ins>**Global**</ins>). You can also verify your Xiaomi phone at official site.
 
 <details>
 
@@ -169,7 +169,7 @@ Redmi Note 10 Pro / Pro Max India
 
 </details>
 
------------------------------------------
+---
 
 ## MIUI Debloated
 
@@ -233,7 +233,7 @@ Redmi Note 10 Pro / Pro Max India
 
 </details>
 
------------------------------------------
+---
 
 ### For Information
 
@@ -250,12 +250,13 @@ Telegram Channel
 - [Global](https://t.me/RedmiNote10ProChannel)
 - [Redmi Note 10 Pro/Max GCam and XMLs](https://t.me/RedmiNote10ProPhotographyChannel)
 - [Mirror](https://t.me/mirrorsweet) Channel
------------------------------------------
+
+---
 
 ### Mi Unlock Tools (For Unlock Bootloader)
 - [Download](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view)
 
------------------------------------------
+---
 
 ### MiFlash Tool
 | Version | Link |
@@ -263,18 +264,18 @@ Telegram Channel
 | ```20181115``` | [Download](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/MiFlash20181115.zip?a=view) |
 | ```20200314``` | [Download](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/MiFlash20200314.zip?a=view) |
   
------------------------------------------
+---
 
 ### Xiaomi Debloat Tool
 - [XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing) | Need JDK for run (.jar) [Windows, macOS, Linux](https://www.oracle.com/java/technologies/downloads/)
 
------------------------------------------
+---
 
 ### ADB & Fastboot (Windows)
 - [ADB](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view)
 - [Platform-tools](https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip)
 
------------------------------------------
+---
 
 <details>
 
@@ -293,14 +294,14 @@ Run this command (cmd-windows):
 </details>
 
 
------------------------------------------
+---
 ### Firmware for Redmi Note 10 Pro
 
 | Firmware Only | Firmware + Vendor |
 ----------------|----------|
 | [Download](https://t.me/faultx003/223) | [Download](https://sourceforge.net/projects/sweet-fw-vendor/files/) |
 
------------------------------------------
+---
 
 ### Custom Recovery
 
@@ -313,16 +314,15 @@ Run this command (cmd-windows):
 | 12 - 13 | OrangeFox Unofficial | Aryan | [Download](https://sourceforge.net/projects/orangefox-releases/files/sweet/) |
 | 14 - 15 | OrangeFox Unofficial | Aryan | [Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/) |
 
+---
 
-
------------------------------------------
 ### Install ROM (Custom Recovery)
 
 <details>
   
 <summary>MIUI</summary>
 
-- [OrangeFox R11.1_6](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip) by [Aryan](https://github.com/basamaryan)
+- [OrangeFox R11.1_6 MIUI](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip)
 - ROM MIUI 14
   | Device | MIUI | Link |
   ---------|------|-------
@@ -365,7 +365,7 @@ Run this command (cmd-windows):
 
 </details>
 
------------------------------------------
+---
 
 ### Root
 
@@ -382,7 +382,8 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 
 #### **How to Pass Strong Integrity & Use Bank Apps**
 - [Method 01](https://gist.github.com/shamxl/b14149ac542864779af4bceb4d6e28bb#file-hiderootandpassstrong-md) by [shamxl](https://gist.github.com/shamxl)
------------------------------------------
+
+---
 
 ### Install TWRP (Permanent)
 - Enter into Fastboot mode
@@ -396,7 +397,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 
 > if 0 (MB) occurs, you must format the data (data is lost) so that it is decrypted (boot twrp>wipe>format data type "yes")
 
------------------------------------------
+---
 
 ### Custom ROM (AOSP)
 
@@ -434,7 +435,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 </details>
 
 
------------------------------------------
+---
 
 <details>
 
