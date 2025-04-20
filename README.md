@@ -37,8 +37,7 @@ Released March 2021
 
 -----------------------------------------
 
-# MIUI Official ROMs Archive
-## Device: Redmi Note 10 Pro (sweet)
+# MIUI Official ROMs Archive | Redmi Note 10 Pro (sweet)
 
 <details>
 
