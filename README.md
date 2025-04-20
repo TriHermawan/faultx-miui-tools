@@ -25,7 +25,7 @@ Released March 2021
 | Architecture | arm64 |
 | GPU | Qualcomm Adreno 618 |
 | Network | 2G GSM, 2G CDMA, 3G UMTS, 4G LTE |
-| Storage | 64/128/256 GB |
+| Storage | 64/128/256 GB, UFS 2.2 |
 | SD card	| Up to 512 GB |
 | Screen | 6.67 in (169.42 mm), 2400x1080 (394 PPI), AMOLED (max. 120 Hz) |
 | Bluetooth | 5.1 with A2DP + aptX HD |
