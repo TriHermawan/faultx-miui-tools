@@ -1,7 +1,7 @@
 >[!Caution]
 >I'm not responsible for bricked devices, dead SD cards, thermonuclear war,
 >YOU are choosing to make these modifications, and if you point
->he finger at me for messing up your device, I will laugh at you!!**
+>he finger at me for messing up your device, I will laugh at you!!
 >Your warranty will be void if you tamper with any part of your device / software.
 >
 > [FaultX | @Number666](https://t.me/mirrorsweet)
