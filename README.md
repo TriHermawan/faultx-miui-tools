@@ -40,10 +40,10 @@ Released March 2021
 
 <details>
 
-<summary>Region: GLOBAL</summary>
+<summary>GLOBAL</summary>
 
 | MIUI | Region | Branch | Android | Type | Size | Link |
-|------|--------|--------|---------|------|------|------|
+| :---: |--------|--------|:---:|------|------|------|
 | **MIUI 14** |
 |```V14.0.9.0.TKFMIXM```| GLOBAL | STABLE | 13.0 | Recovery | 4.08 GB | [Download](https://bn.d.miui.com/V14.0.9.0.TKFMIXM/miui_SWEETGlobal_V14.0.9.0.TKFMIXM_b774d114f4_13.0.zip) |
 |```V14.0.8.0.TKFMIXM```| GLOBAL | STABLE | 13.0 | Recovery | 4.1 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.8.0.TKFMIXM/miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip) |
@@ -60,10 +60,10 @@ Released March 2021
 
 <details>
 
-<summary>Region: EUROPE</summary>
+<summary>EUROPE</summary>
 
 | MIUI | Region | Branch | Android | Type | Size | Link |
-|------|--------|--------|---------|------|------|------|
+|:---:|--------|--------|:---:|------|------|------|
 | **MIUI 14** |
 |```V14.0.9.0.TKFEUXM```| GLOBAL | STABLE | 13.0 | Recovery | 4.0 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.9.0.TKFEUXM/miui_SWEETEEAGlobal_V14.0.9.0.TKFEUXM_79417d5d99_13.0.zip) |
 |```V14.0.9.0.TKFMIXM```| GLOBAL | STABLE | 13.0 | Fastboot | 6.5 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.9.0.TKFEUXM/sweet_eea_global_images_V14.0.9.0.TKFEUXM_20231121.0000.00_13.0_eea_f8148fe5db.tgz) |
@@ -78,10 +78,10 @@ Released March 2021
 
 <details>
 
-<summary>Region: RUSSIA</summary>
+<summary>RUSSIA</summary>
 
 | MIUI | Region | Branch | Android | Type | Size | Link |
-|------|--------|--------|---------|------|------|------|
+|:---:|--------|--------|:---:|------|------|------|
 | **MIUI 14** |
 |```V14.0.2.0.TKFRUXM```| GLOBAL | STABLE | 13 | Recovery | 4.0 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKFRUXM/miui_SWEETRUGlobal_V14.0.2.0.TKFRUXM_9b398954b1_13.0.zip) |
 |```V14.0.2.0.TKFRUXM```| GLOBAL | STABLE | 13 | Fastboot | 6.3 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKFRUXM/sweet_ru_global_images_V14.0.2.0.TKFRUXM_20230803.0000.00_13.0_ru_adcec9d951.tgz) |
@@ -96,10 +96,10 @@ Released March 2021
 
 <details>
 
-<summary>Region: TURKEY</summary>
+<summary>TURKEY</summary>
 
 | MIUI | Region | Branch | Android | Type | Size | Link |
-|------|--------|--------|---------|------|------|------|
+|:---:|--------|--------|:---:|------|------|------|
 | **MIUI 14** |
 |```V14.0.2.0.TKFTRXM```| GLOBAL | STABLE | 13 | Recovery | 4.0 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKFTRXM/miui_SWEETTRGlobal_V14.0.2.0.TKFTRXM_4dd7b72cd7_13.0.zip) |
 |```V14.0.2.0.TKFTRXM```| GLOBAL | STABLE | 13 | Fastboot | 5.9 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKFTRXM/sweet_tr_global_images_V14.0.2.0.TKFTRXM_20230803.0000.00_13.0_tr_7ab6f47e67.tgz) |
@@ -114,11 +114,11 @@ Released March 2021
 
 <details>
 
-<summary>Region: INDONESIA</summary>
+<summary>INDONESIA</summary>
 
 
 | MIUI | Region | Branch | Android | Type | Size | Link |
-|------|--------|--------|---------|------|------|------|
+|:---:|--------|--------|:---:|------|------|------|
 | **MIUI 14** |
 |```V14.0.2.0.TKFIDXM```| GLOBAL | STABLE | 13 | Recovery | 4.0 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKFIDXM/miui_SWEETIDGlobal_V14.0.2.0.TKFIDXM_df828d33c5_13.0.zip) |
 |```V14.0.2.0.TKFIDXM```| GLOBAL | STABLE | 13 | Fastboot | 6.2 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKFIDXM/sweet_id_global_images_V14.0.2.0.TKFIDXM_20230321.0000.00_13.0_id_8e9aac828d.tgz) |
@@ -133,10 +133,10 @@ Released March 2021
 
 <details>
 
-<summary>Region: TAIWAN</summary>
+<summary>TAIWAN</summary>
 
 | MIUI | Region | Branch | Android | Type | Size | Link |
-|------|--------|--------|---------|------|------|------|
+|:---:|--------|--------|:---:|------|------|------|
 | **MIUI 14** |
 |```V14.0.4.0.TKFTWXM```| GLOBAL | STABLE | 13 | Recovery | 3.9 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.4.0.TKFTWXM/miui_SWEETTWGlobal_V14.0.4.0.TKFTWXM_dc65b5ca7d_13.0.zip) |
 |```V14.0.4.0.TKFTWXM```| GLOBAL | STABLE | 13 | Fastboot | 5.4 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.4.0.TKFTWXM/sweet_tw_global_images_V14.0.4.0.TKFTWXM_20231116.0000.00_13.0_tw_1a0d10683e.tgz) |
@@ -151,11 +151,11 @@ Released March 2021
 
 <details>
 
-<summary>Region: INDIA</summary>
+<summary>INDIA</summary>
 Redmi Note 10 Pro / Pro Max India
 
 | MIUI | Region | Branch | Android | Type | Size | Link |
-|------|--------|--------|---------|------|------|------|
+|:---:|--------|--------|:---:|------|------|------|
 | **MIUI 14** |
 |```V14.0.1.0.TKFINXM```| GLOBAL | STABLE | 13 | Recovery | 3.9 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.1.0.TKFINXM/miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip) |
 |```V14.0.9.0.TKFMIXM```| GLOBAL | STABLE | 13 | Fastboot | 4.6 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.1.0.TKFINXM/sweetin_in_global_images_V14.0.1.0.TKFINXM_20230327.0000.00_13.0_in_254cb6ea06.tgz) |
@@ -236,19 +236,14 @@ Redmi Note 10 Pro / Pro Max India
 
 ### For Information
 
-XDA
-- [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.12117/)
+XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.12117/)
 
-Telegram Group
-- [Indonesia](https://t.me/RedmiNote10ProID)
-- [Global](https://t.me/RedmiNote10ProDiscussion)
-- [Global (Photography)](https://t.me/RedmiNote10Pro_MaxPhotography)
-
-Telegram Channel
-- [Indonesia](https://t.me/RedmiNote10ProIDUpdate)
-- [Global](https://t.me/RedmiNote10ProChannel)
-- [Redmi Note 10 Pro/Max GCam and XMLs](https://t.me/RedmiNote10ProPhotographyChannel)
-- [Mirror](https://t.me/mirrorsweet) Channel
+| Telegram Group | Telegram Channel |
+| --- | --- |
+| [Indonesia](https://t.me/RedmiNote10ProID) | [Indonesia](https://t.me/RedmiNote10ProIDUpdate) |
+| [Global](https://t.me/RedmiNote10ProDiscussion) | [Global](https://t.me/RedmiNote10ProChannel) |
+| [Global (Photography)](https://t.me/RedmiNote10Pro_MaxPhotography) | [GCam and XMLs](https://t.me/RedmiNote10ProPhotographyChannel) |
+|  | [Mirror](https://t.me/faultx003) |
 
 ---
 
@@ -297,7 +292,7 @@ Run this command (cmd-windows):
 ### Firmware for Redmi Note 10 Pro
 
 | Firmware Only | Firmware + Vendor |
-----------------|----------|
+| :---:| :---: |
 | [Download](https://t.me/faultx003/223) | [Download](https://sourceforge.net/projects/sweet-fw-vendor/files/) |
 
 ---
@@ -305,7 +300,7 @@ Run this command (cmd-windows):
 ### Custom Recovery
 
 | Android Version | Recovery | Maintainer | Link |
-|-----------------|--------|----------|----------|
+|  :---: |---|---|---|
 | 11 - 12 | TWRP Official | Nebrassy | [Download](https://dl.twrp.me/sweet/) |
 | 11 - 12 | OrangeFox Official | Royal_King_0 | [Download](https://orangefox.download/device/sweet) |
 | 12 - 13 | KewL TWRP | Pulkit | [Download](https://sourceforge.net/projects/android-sweet/files/recovery/) |
@@ -324,7 +319,7 @@ Run this command (cmd-windows):
 - [OrangeFox R11.1_6 MIUI](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip)
 - ROM MIUI 14
   | Device | MIUI | Link |
-  ---------|------|-------
+  | :---: | :---: | :---: |
   | Redmi Note 10 Pro **Global** | ```V14.0.9.0.TKFMIXM``` | [Download](https://bn.d.miui.com/V14.0.9.0.TKFMIXM/miui_SWEETGlobal_V14.0.9.0.TKFMIXM_b774d114f4_13.0.zip) |
   | Redmi Note 10 Pro **EEA** | ```V14.0.9.0.TKFEUXM``` | [Download](https://bn.d.miui.com/V14.0.9.0.TKFEUXM/miui_SWEETEEAGlobal_V14.0.9.0.TKFEUXM_79417d5d99_13.0.zip) |
   | Redmi Note 10 Pro **Russia** | ```V14.0.2.0.TKFRUXM``` | [Download](https://bn.d.miui.com/V14.0.2.0.TKFRUXM/miui_SWEETRUGlobal_V14.0.2.0.TKFRUXM_9b398954b1_13.0.zip) |
