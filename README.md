@@ -295,13 +295,6 @@ Run this command (cmd-windows):
 
 
 -----------------------------------------
-
-### ROM MIUI
-
-- [Download](https://xmfirmwareupdater.com/archive/miui/sweet/) (XM Firmware Updater)
-
-
------------------------------------------
 ### Firmware for Redmi Note 10 Pro
 
 | Firmware Only | Firmware + Vendor |
