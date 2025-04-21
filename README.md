@@ -38,6 +38,9 @@ Released March 2021
 > [!WARNING]
 > Make sure to download exact firmware for your model. You can discern your model from Settings > About phone > MIUI version (Eg: In MIUI version V14.0.9.0.TKF<ins>**MI**</ins>XM ‘<ins>**MI**</ins>’ represents your phone region, which is <ins>**Global**</ins>). You can also verify your Xiaomi phone at official site.
 
+> [!NOTE]
+> If you are currently or previously using a ROM/Custom ROM (AOSP) and want to flash MIUI to MIUI 14/13/12, I recommend doing [**this**](https://t.me/faultx003/303) . The goal is to ensure that when you're on MIUI, you won't encounter a message like this: "Find Device storage corrupt. Your device is unsafe now."
+
 <details>
 
 <summary>GLOBAL</summary>
@@ -249,11 +252,7 @@ Redmi Note 10 Pro / Pro Max India
   
 ![](msedge_e43eZ28HO0.png)
 
-
 </details>
-
-
-
 
 ---
 
@@ -271,6 +270,10 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 ---
 
 ### Mi Unlock Tools (For Unlock Bootloader)
+
+> [!CAUTION]
+> Unlocking the bootloader will erase all data on your device! Before proceeding, ensure the data you would like to retain is backed up to your PC and/or your Google account, or equivalent.
+
 - [Download](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view)
 
 ---
