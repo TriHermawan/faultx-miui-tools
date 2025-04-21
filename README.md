@@ -176,7 +176,7 @@ Redmi Note 10 Pro / Pro Max India
 
 | Firmware Only | Size | Firmware + Vendor | Size |
 | :---:| :---: | :---: | :---: |
-| [Download](https://t.me/faultx003/223) | ```80 MB+``` | [Download](https://sourceforge.net/projects/sweet-fw-vendor/files/) | ```700 MB+``` |
+| [Download](https://t.me/faultx003/223) | ```80 MB±``` | [Download](https://sourceforge.net/projects/sweet-fw-vendor/files/) | ```700 MB±``` |
 
 ---
 
