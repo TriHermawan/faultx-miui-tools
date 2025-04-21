@@ -256,7 +256,7 @@ Redmi Note 10 Pro / Pro Max India
 
 ---
 
-### For Information
+### Forum
 
 XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.12117/)
 
