@@ -355,7 +355,7 @@ Run this command (cmd-windows):
 <summary>PixelOS</summary>
 
 - [OrangeFox R11.1_7 EROFSCompression](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip)
-- (If need) Flash [Firmware Only](https://github.com/TriHermawan/faultx-miui-tools/edit/main/README.md#firmware-for-redmi-note-10-pro)
+- (If need) Flash [Firmware Only](https://github.com/TriHermawan/faultx-miui-tools?tab=readme-ov-file#firmware-for-redmi-note-10-pro)
 - Flash [PixelOS ROM](https://pixelos.net/download/sweet) | [Archive](https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/)
 - Format Data ➜ **"YES"**
 - Reboot System
@@ -367,7 +367,7 @@ Run this command (cmd-windows):
 <summary>LineageOS Official</summary>
 
 - [OrangeFox R11.1_6](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet.zip)
-- (If need) Flash [Firmware Only](https://github.com/TriHermawan/faultx-miui-tools/edit/main/README.md#firmware-for-redmi-note-10-pro)
+- (If need) Flash [Firmware Only](https://github.com/TriHermawan/faultx-miui-tools?tab=readme-ov-file#firmware-for-redmi-note-10-pro)
 - Flash [LineageOS ROM](https://download.lineageos.org/devices/sweet/builds)
 - Flash GApps (Google Apps): [MindTheGapps_android-14](https://github.com/MindTheGapps/14.0.0-arm64/releases) - [MindTheGapps_android-15](https://github.com/MindTheGapps/15.0.0-arm64/releases)
 - Format Data ➜ **"YES"**
