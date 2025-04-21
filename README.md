@@ -36,7 +36,7 @@ Released March 2021
 # MIUI Official ROMs Archive | Redmi Note 10 Pro (sweet)
 
 > [!WARNING]
-> Make sure to download exact firmware for your model. You can discern your model from Settings > About phone > MIUI version (Eg: In MIUI version V14.0.9.0.TKF<ins>**MI**</ins>XM ‘<ins>**MI**</ins>’ represents your phone region, which is <ins>**Global**</ins>). You can also verify your Xiaomi phone at official site.
+> Make sure to download exact firmware for your model. You can discern your model from Settings > About phone > MIUI version (Eg: In MIUI version `V14.0.9.0.TKFMIXM` ‘<ins>**MI**</ins>’ represents your phone region, which is <ins>**Global**</ins>). You can also verify your Xiaomi phone at official site.
 
 > [!NOTE]
 > If you are currently or previously using a ROM/Custom ROM (AOSP) and want to flash MIUI to MIUI 14/13/12, I recommend doing [**this**](https://t.me/faultx003/303) . The goal is to ensure that when you're on MIUI, you won't encounter a message like this: "Find Device storage corrupt. Your device is unsafe now."
@@ -182,6 +182,9 @@ Redmi Note 10 Pro / Pro Max India
 
 ## MIUI Debloated
 
+> [!NOTE]
+> Make sure your computer has [`adb-fastboot (drivers)`](https://github.com/TriHermawan/faultx-miui-tools#adb--fastboot-windows) installed.
+
   <details>
 
 <summary>List App name to Debloated</summary>
@@ -238,12 +241,9 @@ Redmi Note 10 Pro / Pro Max India
 <details>
   <summary>Download</summary>
   
- ```
- - Windows user = run .bat
- - Linux/macOS user = $ chmod +x .sh
-```
+ - Windows user = `run .bat`
+ - Linux/macOS user = $ `chmod +x .sh`
 
-> Requirement: ADB installed
   
 | Windows | Linux/MacOS |
 | :---: | :---:|
@@ -272,7 +272,7 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 ### Mi Unlock Tools (For Unlock Bootloader)
 
 > [!CAUTION]
-> Unlocking the bootloader will erase all data on your device! Before proceeding, ensure the data you would like to retain is backed up to your PC and/or your Google account, or equivalent.
+> Unlocking the bootloader will **erase all data** on your device! Before proceeding, ensure the data you would like to retain is **backed up** to your PC and/or your Google account, or equivalent.
 
 - [Download](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view)
 
@@ -326,6 +326,28 @@ Run this command (cmd-windows):
 | 12 - 13 | OrangeFox Unofficial | Aryan | [Download](https://sourceforge.net/projects/orangefox-releases/files/sweet/) |
 | 14 - 15 | OrangeFox Unofficial | Aryan | [Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/) |
 
+---
+### Install TWRP (Permanent)
+
+> [!NOTE]
+> Make sure your computer has [`adb-fastboot (drivers)`](https://github.com/TriHermawan/faultx-miui-tools#adb--fastboot-windows) installed.
+
+**Download:**
+- [TWRP (`.img`)](https://dl.twrp.me/sweet/twrp-3.7.1_12-0-sweet.img.html)
+- [OrangeFox-MIUI (`.zip`)](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip) <- Save it to your SDCard
+
+1. Turn off your phone. Enter fastboot mode by pressing and holding the **Power** button + **Volume Down** button simultaneously. Keep holding them until you enter fastboot mode, then release.
+2. Once you're in fastboot mode, connect your phone to your PC using a USB cable.
+3. Open CMD and type the command:  
+   `fastboot devices`  
+   Then press Enter. Make sure your `device ID` appears, which means your device is detected. If it's not detected, you need to reinstall the `adb-fastboot drivers` correctly.
+4. To install TWRP, use the command:  
+   `fastboot flash recovery` (drag & drop the `twrp .img` file) then press Enter.  
+   Example: `fastboot flash recovery twrp-3.7.1_12-0-sweet.img`
+5. To reboot into TWRP, use the command:  
+   `fastboot reboot-recovery`
+6. Once you're in TWRP, flash the `OrangeFox (.zip)` file that you saved to your SDCard.
+7. Done!
 ---
 
 ### Install ROM (Custom Recovery)
@@ -394,20 +416,6 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 
 #### **How to Pass Strong Integrity & Use Bank Apps**
 - [Method 01](https://gist.github.com/shamxl/b14149ac542864779af4bceb4d6e28bb#file-hiderootandpassstrong-md) by [shamxl](https://gist.github.com/shamxl)
-
----
-
-### Install TWRP (Permanent)
-- Enter into Fastboot mode
-- Type the following command and hit enter to check the fastboot device connected or not:
-``` fastboot devices ```
-- Now, in order to install TWRP Recovery on your phone, type the following command and press enter:
-``` fastboot flash recovery twrp-name.img ```
-- Press power + volume up button to boot TWRP
-- Install magisk (root) in TWRP to permanent custom recovery
-- Done
-
-> if 0 (MB) occurs, you must format the data (data is lost) so that it is decrypted (boot twrp>wipe>format data type "yes")
 
 ---
 
