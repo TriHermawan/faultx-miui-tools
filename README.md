@@ -418,6 +418,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 <summary>Custom ROM (AOSP)</summary>
 
 - [LineageOS](https://download.lineageos.org/devices/sweet/builds) | [XDA](https://forum.xda-developers.com/t/rom-13-official-lineageos-20-for-redmi-note-10-pro-redmi-note-10-pro-max.4622953/)
+- [LineageOS MicroG](https://download.lineage.microg.org/sweet/)
 - [PixelOS](https://pixelos.net/download/sweet)
 - [ArrowOS](https://arrowos.net/download/sweet)
 - [crDroid](https://crdroid.net/downloads#sweet)
@@ -432,6 +433,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 - [Corvus OS](https://downloads.corvusrom.com/?dir=sweet)
 - [Project-Xtended](https://downloads.project-xtended.org/?dir=sweet)
 - [NusantaraProject](https://nusantararom.org/device/sweet/)
+- [VoltageOS](https://www.voltageos.com/devices/download/sweet)
 
 
 </details>
