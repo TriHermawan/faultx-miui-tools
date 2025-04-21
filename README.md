@@ -402,7 +402,7 @@ Run this command (cmd-windows):
 </details>
 
 ---
-### GApp Packages (Google Apps) 
+### GApps (Google Apps) 
 
 > [!CAUTION]
 > Make sure to install the GApps package that matches your device's Android OS version.  
