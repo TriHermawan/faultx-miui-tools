@@ -172,13 +172,7 @@ Redmi Note 10 Pro / Pro Max India
 
 ## MIUI Debloated
 
-> Requirement: ADB installed
-```
-* Windows user = run .bat
-* Linux/macOS user = $ chmod +x .sh
-```
-
-<details>
+  <details>
 
 <summary>List App name to Debloated</summary>
 
@@ -229,8 +223,30 @@ Redmi Note 10 Pro / Pro Max India
 - Game Center
 - Etc
 ```
+</details>
+
+<details>
+  <summary>Download</summary>
+  
+ ```
+ - Windows user = run .bat
+ - Linux/macOS user = $ chmod +x .sh
+```
+
+> Requirement: ADB installed
+  
+| Windows | Linux/MacOS |
+| :---: | :---:|
+| [MIUI 12](https://github.com/TriHermawan/faultx-miui-tools/blob/main/Debloat%20MIUI%2012.5.5%20(ID)%20-%20faultx.bat) | [MIUI 12](https://github.com/TriHermawan/faultx-miui-tools/blob/main/MIUI_12.x.x-Debloater.sh) |
+| [MIUI 13-14](https://github.com/TriHermawan/faultx-miui-tools/blob/main/Debloat%20MIUI%2013%20(ID)%20-%20faultx.bat) | [MIUI 13-14](https://github.com/TriHermawan/faultx-miui-tools/blob/main/MIUI_13.x.x-Debloater.sh) |
+  
+![](msedge_e43eZ28HO0.png)
+
 
 </details>
+
+
+
 
 ---
 
