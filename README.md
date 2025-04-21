@@ -333,7 +333,7 @@ Run this command (cmd-windows):
 > Make sure your computer has [`adb-fastboot (drivers)`](https://github.com/TriHermawan/faultx-miui-tools#adb--fastboot-windows) installed.
 
 **Download:**
-- [TWRP (`.img`)](https://dl.twrp.me/sweet/twrp-3.7.1_12-0-sweet.img.html)
+- [TWRP (`.img`)](https://dl.twrp.me/sweet/twrp-3.7.1_12-0-sweet.img)
 - [OrangeFox-MIUI (`.zip`)](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip) <- Save it to your SDCard
 
 1. Turn off your phone. Enter fastboot mode by pressing and holding the **Power** button + **Volume Down** button simultaneously. Keep holding them until you enter fastboot mode, then release.
