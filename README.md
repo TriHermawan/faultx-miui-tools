@@ -169,6 +169,13 @@ Redmi Note 10 Pro / Pro Max India
 </details>
 
 ---
+## Firmware for Redmi Note 10 Pro
+
+| Firmware Only | Size | Firmware + Vendor | Size |
+| :---:| :---: | :---: | :---: |
+| [Download](https://t.me/faultx003/223) | ```80 MB+``` | [Download](https://sourceforge.net/projects/sweet-fw-vendor/files/) | ```700 MB+``` |
+
+---
 
 ## MIUI Debloated
 
@@ -302,14 +309,6 @@ Run this command (cmd-windows):
 ```
 
 </details>
-
-
----
-### Firmware for Redmi Note 10 Pro
-
-| Firmware Only | Firmware + Vendor |
-| :---:| :---: |
-| [Download](https://t.me/faultx003/223) | [Download](https://sourceforge.net/projects/sweet-fw-vendor/files/) |
 
 ---
 
