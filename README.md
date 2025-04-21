@@ -291,7 +291,7 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 
 ---
 
-### ADB & Fastboot (Windows)
+### ADB & Fastboot Driver (Windows)
 - [ADB](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view)
 - [Platform-tools](https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip)
 
