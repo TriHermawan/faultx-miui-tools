@@ -420,6 +420,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 - [LineageOS](https://download.lineageos.org/devices/sweet/builds) | [XDA](https://forum.xda-developers.com/t/rom-13-official-lineageos-20-for-redmi-note-10-pro-redmi-note-10-pro-max.4622953/)
 - [LineageOS MicroG](https://download.lineage.microg.org/sweet/)
 - [PixelOS](https://pixelos.net/download/sweet)
+- [PixelOS-Nethunter (Unofficial) ](https://xdaforums.com/t/rom-13-pixelos-13-nethunter.4608645/)
 - [ArrowOS](https://arrowos.net/download/sweet)
 - [crDroid](https://crdroid.net/downloads#sweet)
 - [EvolutionX](https://evolution-x.org/device/sweet)
