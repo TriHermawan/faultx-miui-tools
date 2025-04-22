@@ -256,7 +256,7 @@ Redmi Note 10 Pro / Pro Max India
 
 ---
 
-### Forum
+## Forum
 
 XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.12117/)
 
@@ -269,7 +269,7 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 
 ---
 
-### Mi Unlock Tools (For Unlock Bootloader)
+## Mi Unlock Tools (For Unlock Bootloader)
 
 > [!CAUTION]
 > Unlocking the bootloader will <ins>**erase all data**</ins> on your device! Before proceeding, ensure the data you would like to retain is <ins>**backed up**</ins> to your PC and/or your Google account, or equivalent.
@@ -278,7 +278,7 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 
 ---
 
-### MiFlash Tool
+## MiFlash Tool
 | Version | Link |
 |---------|------|
 | ```20181115``` | [Download](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/MiFlash20181115.zip?a=view) |
@@ -286,12 +286,12 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
   
 ---
 
-### Xiaomi Debloat Tool
+## Xiaomi Debloat Tool
 - [XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing) | Need JDK for run (.jar) [Windows, macOS, Linux](https://www.oracle.com/java/technologies/downloads/)
 
 ---
 
-### ADB & Fastboot Driver (Windows)
+## ADB & Fastboot Driver (Windows)
 - [ADB](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view)
 - [Platform-tools](https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip)
 
@@ -315,7 +315,7 @@ Run this command (cmd-windows):
 
 ---
 
-### Custom Recovery
+## Custom Recovery
 
 | Android Version | Recovery | Maintainer | Link |
 |  :---: |---|---|---|
@@ -327,7 +327,7 @@ Run this command (cmd-windows):
 | 14 - 15 | OrangeFox Unofficial | Aryan | [Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/) |
 
 ---
-### Install TWRP (Permanent) MIUI
+## Install TWRP (Permanent) MIUI
 
 > [!NOTE]
 > Make sure your computer has [`adb-fastboot (drivers)`](https://github.com/TriHermawan/faultx-miui-tools#adb--fastboot-windows) installed.
@@ -350,7 +350,7 @@ Run this command (cmd-windows):
 7. Done!
 ---
 
-### Install ROM (Custom Recovery)
+## Install ROM (Custom Recovery)
 
 <details>
   
@@ -402,7 +402,7 @@ Run this command (cmd-windows):
 </details>
 
 ---
-### GApps (Google Apps) 
+## GApps (Google Apps) 
 
 > [!CAUTION]
 > Make sure to install the GApps package that matches your device's Android OS version.  
@@ -415,7 +415,7 @@ Architecture: `arm64`.
 |BiTGApps| [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) |
 ---
 
-### Root
+## Root
 
 - [Magisk](https://github.com/topjohnwu/Magisk/releases) Official by [topjohnwu](https://github.com/topjohnwu) 
 
@@ -433,7 +433,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 
 ---
 
-### Custom ROM (AOSP)
+## Custom ROM (AOSP)
 
 <details>
 
