@@ -457,6 +457,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 - [Project-Xtended](https://downloads.project-xtended.org/?dir=sweet)
 - [NusantaraProject](https://nusantararom.org/device/sweet/)
 - [VoltageOS](https://www.voltageos.com/devices/download/sweet)
+- [Project Pixelage](https://t.me/lemezohaibdesk)
 
 
 </details>
