@@ -43,7 +43,7 @@ Released March 2021
 
 <details>
 
-<summary>GLOBAL</summary>
+<summary>GLOBAL (MI)</summary>
 
 | MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
 | :---: |--------|--------|:---:|------|------|------| :---: |
@@ -63,7 +63,7 @@ Released March 2021
 
 <details>
 
-<summary>EUROPE</summary>
+<summary>EUROPE (EU)</summary>
 
 | MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
 |:---:|--------|--------|:---:|------|------|------| :---: |
@@ -81,7 +81,7 @@ Released March 2021
 
 <details>
 
-<summary>RUSSIA</summary>
+<summary>RUSSIA (RU)</summary>
 
 | MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
 |:---:|--------|--------|:---:|------|------|------| :---: |
@@ -99,7 +99,7 @@ Released March 2021
 
 <details>
 
-<summary>TURKEY</summary>
+<summary>TURKEY (TR)</summary>
 
 | MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
 |:---:|--------|--------|:---:|------|------|------| :---: |
@@ -117,7 +117,7 @@ Released March 2021
 
 <details>
 
-<summary>INDONESIA</summary>
+<summary>INDONESIA (ID)</summary>
 
 
 | MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
@@ -136,7 +136,7 @@ Released March 2021
 
 <details>
 
-<summary>TAIWAN</summary>
+<summary>TAIWAN (TW)</summary>
 
 | MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
 |:---:|--------|--------|:---:|------|------|------| :---: |
@@ -154,7 +154,7 @@ Released March 2021
 
 <details>
 
-<summary>INDIA</summary>
+<summary>INDIA (IN)</summary>
 Redmi Note 10 Pro / Pro Max India
 
 | MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
