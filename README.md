@@ -483,7 +483,6 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 - [Optimizer](https://github.com/KelvinCrag/Optimizer)
 - [Double tap to lock screen (Xiaomi & Redmi) [MIUI-ONLY]](https://t.me/miatoz/217)
 - [Google Splash Screen](https://t.me/mirrorsweet/45)
-- [NikGapps](https://sourceforge.net/projects/nikgapps/files/Releases/)
 - [ViPER4AndroidRepackaged](https://github.com/programminghoch10/ViPER4AndroidRepackaged)
 - [Termux](https://f-droid.org/en/packages/com.termux/)
 - [Custom DNS](https://pastebin.com/DTRu7aWJ)
