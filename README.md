@@ -171,14 +171,14 @@ Redmi Note 10 Pro / Pro Max India
 
 </details>
 
----
+
 ## Firmware for Redmi Note 10 Pro
 
 | Firmware Only | Size | Firmware + Vendor | Size |
 | :---:| :---: | :---: | :---: |
 | [Download](https://t.me/faultx003/223) | ```80 MB±``` | [Download](https://sourceforge.net/projects/sweet-fw-vendor/files/) | ```700 MB±``` |
 
----
+
 
 ## MIUI Debloated
 
@@ -254,7 +254,7 @@ Redmi Note 10 Pro / Pro Max India
 
 </details>
 
----
+
 
 ## Forum
 
@@ -267,7 +267,7 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 | [Global (Photography)](https://t.me/RedmiNote10Pro_MaxPhotography) | [GCam and XMLs](https://t.me/RedmiNote10ProPhotographyChannel) |
 |  | [Mirror](https://t.me/faultx003) |
 
----
+
 
 ## Mi Unlock Tools (For Unlock Bootloader)
 
@@ -276,7 +276,36 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 
 - [Download](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view)
 
----
+## Relock / Lock Bootloader 
+
+> [!WARNING]
+> - Relocking will wipe your data (factory reset).
+> - If the ROM does not match,relocking may brick your phone (bootloop or hard brick).
+
+> [!NOTE]
+> - Charge your battery to at least 50%.
+> - Back up all your data beforehand.
+
+### Steps to Relock the Bootloader
+
+1. Install Official MIUI Fastboot ROM:
+   - [Download](https://github.com/TriHermawan/faultx-miui-tools/tree/main#miui-official-roms-archive--redmi-note-10-pro-sweet) the **fastboot** version of MIUI ROM for your device (`.tgz` format).
+   - Use this to ensure your system is clean and official.
+
+2. [Download](https://github.com/TriHermawan/faultx-miui-tools/tree/main#miflash-tool) and Install Mi Flash Tool
+
+3. Enter Fastboot Mode:
+   - Power off your phone.
+   - Hold **Volume Down** + **Power** until the Fastboot screen appears.
+
+4. **Connect Your Phone to the PC** via USB.
+
+5. Open Mi Flash Tool and **Click** Select and choose the extracted folder of the fastboot ROM.
+
+7. At the bottom of the tool, choose <ins>_“clean all and lock”_</ins>.
+
+8. Click **Flash** and wait for the process to complete.
+
 
 ## MiFlash Tool
 | Version | Link |
@@ -284,36 +313,28 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 | ```20181115``` | [Download](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/MiFlash20181115.zip?a=view) |
 | ```20200314``` | [Download](https://cloud03.faultx.workers.dev/1:/MiFlash%20Tools/MiFlash20200314.zip?a=view) |
   
----
 
 ## Xiaomi Debloat Tool
 - [XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing) | Need JDK for run (.jar) [Windows, macOS, Linux](https://www.oracle.com/java/technologies/downloads/)
-
----
 
 ## ADB & Fastboot Driver (Windows)
 - [ADB](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view)
 - [Platform-tools](https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip)
 
----
+## Erase System Dynamic Partition
 
 <details>
+  <summary>Step to Erase System Dynamic Partition</summary>
+  
+  - Boot custom recovery (TWRP/Orangefox)
+  - Enter the reboot menu
+  - Choose fastboot reboot
 
-<summary>Erase System Dynamic Partition</summary>
-
-- Boot custom recovery (TWRP/Orangefox)
-- Enter the reboot menu
-- Choose fastboot reboot
-
-Run this command (cmd-windows):
-```
-- fastboot erase vendor
-- fastboot erase system
-```
-
+  Run this command (cmd-windows):
+  - `fastboot erase vendor`
+  - `fastboot erase system`
 </details>
 
----
 
 ## Custom Recovery
 
@@ -326,31 +347,42 @@ Run this command (cmd-windows):
 | 12 - 13 | OrangeFox Unofficial | Aryan | [Download](https://sourceforge.net/projects/orangefox-releases/files/sweet/) |
 | 14 - 15 | OrangeFox Unofficial | Aryan | [Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/) |
 
----
+
 ## Install TWRP (Permanent) MIUI
 
 > [!NOTE]
 > Make sure your computer has [`adb-fastboot (drivers)`](https://github.com/TriHermawan/faultx-miui-tools#adb--fastboot-windows) installed.
 
-**Download:**
-- [TWRP (`.img`)](https://dl.twrp.me/sweet/twrp-3.7.1_12-0-sweet.img)
-- [OrangeFox-MIUI (`.zip`)](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip) ➜ Save it to your SDCard
+<details>
+  <summary>Step to Install</summary>
 
-1. Turn off your phone. Enter fastboot mode by pressing and holding the **Power** button + **Volume Down** button simultaneously. Keep holding them until you enter fastboot mode, then release.
-2. Once you're in fastboot mode, connect your phone to your PC using a USB cable.
-3. Open CMD and type the command:  
+1. Download:
+   - [TWRP (`.img`)](https://dl.twrp.me/sweet/twrp-3.7.1_12-0-sweet.img)
+   - [OrangeFox-MIUI (`.zip`)](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip) ➜ Save it to your SDCard
+3. Turn off your phone. Enter fastboot mode by pressing and holding the **Power** button + **Volume Down** button simultaneously. Keep holding them until you enter fastboot mode, then release.
+4. Once you're in fastboot mode, connect your phone to your PC using a USB cable.
+5. Open CMD and type the command:  
    `fastboot devices`  
    Then press Enter. Make sure your `device ID` appears, which means your device is detected. If it's not detected, you need to reinstall the `adb-fastboot drivers` correctly.
-4. To install TWRP, use the command:  
+6. To install TWRP, use the command:  
    `fastboot flash recovery` (drag & drop the `twrp .img` file) then press Enter.  
    Example: `fastboot flash recovery twrp-3.7.1_12-0-sweet.img`
-5. To reboot into TWRP, use the command:  
+7. To reboot into TWRP, use the command:  
    `fastboot reboot-recovery`
-6. Once you're in TWRP, flash the `OrangeFox (.zip)` file that you saved to your SDCard.
-7. Done!
----
+8. Once you're in TWRP, flash the `OrangeFox (.zip)` file that you saved to your SDCard.
+9. Done!
 
-## Install ROM (Custom Recovery)
+  
+</details>
+
+## Install ROM Official MIUI / Custom ROM AOSP via Custom Recovery
+
+> [!WARNING]
+> - Back up all your data beforehand.
+> - Your data will be deleted (factory reset).
+> - Charge your battery to at least 50%.
+> - If the ROM does not match, maybe brick your phone (bootloop or hard brick).
+
 
 <details>
   
@@ -359,7 +391,7 @@ Run this command (cmd-windows):
 > If you are currently or previously using a ROM/Custom ROM (AOSP) and want to flash MIUI to MIUI 14/13/12, I recommend doing [**this**](https://t.me/faultx003/303) . The goal is to ensure that when you're on MIUI, you won't encounter a message like this: _"Find Device storage corrupt. Your device is unsafe now."_
 
 - [OrangeFox R11.1_6 MIUI](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip)
-- ROM MIUI 14
+- Flash ROM MIUI 14
   | Device | MIUI | Link |
   | :---: | :---: | :---: |
   | Redmi Note 10 Pro **Global** | `V14.0.9.0.TKFMIXM` | [Download](https://bn.d.miui.com/V14.0.9.0.TKFMIXM/miui_SWEETGlobal_V14.0.9.0.TKFMIXM_b774d114f4_13.0.zip) |
@@ -381,7 +413,7 @@ Run this command (cmd-windows):
 <summary>PixelOS</summary>
 
 - [OrangeFox R11.1_7 EROFSCompression](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip)
-- (If need) Flash [Firmware Only](https://github.com/TriHermawan/faultx-miui-tools?tab=readme-ov-file#firmware-for-redmi-note-10-pro)
+- Flash [Firmware Only](https://github.com/TriHermawan/faultx-miui-tools?tab=readme-ov-file#firmware-for-redmi-note-10-pro) _(if necessary)_
 - Flash [PixelOS ROM](https://pixelos.net/download/sweet) | [Archive](https://sourceforge.net/projects/pixelos-releases/files/fourteen/sweet/)
 - Format Data ➜ **"YES"**
 - Reboot System
@@ -393,7 +425,7 @@ Run this command (cmd-windows):
 <summary>LineageOS Official</summary>
 
 - [OrangeFox R11.1_6](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet.zip)
-- (If need) Flash [Firmware Only](https://github.com/TriHermawan/faultx-miui-tools?tab=readme-ov-file#firmware-for-redmi-note-10-pro)
+- Flash [Firmware Only](https://github.com/TriHermawan/faultx-miui-tools?tab=readme-ov-file#firmware-for-redmi-note-10-pro) _(if necessary)_
 - Flash [LineageOS ROM](https://download.lineageos.org/devices/sweet/builds)
 - Flash GApps (Google Apps): [MindTheGapps_android-14](https://github.com/MindTheGapps/14.0.0-arm64/releases) - [MindTheGapps_android-15](https://github.com/MindTheGapps/15.0.0-arm64/releases)
 - Format Data ➜ **"YES"**
@@ -401,7 +433,7 @@ Run this command (cmd-windows):
 
 </details>
 
----
+
 ## GApps (Google Apps) 
 
 > [!CAUTION]
@@ -413,7 +445,7 @@ Architecture: `arm64`.
 |MindTheGapps| - | - | [Download](https://github.com/MindTheGapps/13.0.0-arm64/releases) | [Download](https://github.com/MindTheGapps/14.0.0-arm64/releases) | [Download](https://github.com/MindTheGapps/15.0.0-arm64/releases) |
 |NikGApps| [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-11/) | [12.0](https://sourceforge.net/projects/nikgapps/files/Releases/Android-12/) - [12.1](https://sourceforge.net/projects/nikgapps/files/Releases/Android-12.1/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-13/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-13/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-14/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-14/) | [Download](https://sourceforge.net/projects/nikgapps/files/Releases/Android-15/) - [crDroid](https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-15/) |
 |BiTGApps| [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) |
----
+
 
 ## Root
 
@@ -431,7 +463,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 #### **How to Pass Strong Integrity & Use Bank Apps**
 - [Method 01](https://gist.github.com/shamxl/b14149ac542864779af4bceb4d6e28bb#file-hiderootandpassstrong-md) by [shamxl](https://gist.github.com/shamxl)
 
----
+
 
 ## Custom ROM (AOSP)
 
@@ -472,8 +504,6 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 
 </details>
 
-
----
 
 <details>
 
