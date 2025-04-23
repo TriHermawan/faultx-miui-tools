@@ -52,7 +52,7 @@ Released March 2021
 
 <summary>GLOBAL (MI)</summary>
 
-| MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
+|  | Region | Branch | Android | Type | Size | Link | Mirror |
 | :---: |--------|--------|:---:|------|------|------| :---: |
 | **MIUI 14** |
 |`V14.0.9.0.TKFMIXM`| GLOBAL | STABLE | 13.0 | Recovery | 4.08 GB | [Download](https://bn.d.miui.com/V14.0.9.0.TKFMIXM/miui_SWEETGlobal_V14.0.9.0.TKFMIXM_b774d114f4_13.0.zip) | [OD](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/ERz9KOP5RkZDiuU3linOLmYB2Q8drEhF53rw-FFIpKzJ1g?e=8fwgpZ) |
@@ -72,7 +72,7 @@ Released March 2021
 
 <summary>EUROPE (EU)</summary>
 
-| MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
+|  | Region | Branch | Android | Type | Size | Link | Mirror |
 |:---:|--------|--------|:---:|------|------|------| :---: |
 | **MIUI 14** |
 |`V14.0.9.0.TKFEUXM`| EUROPE | STABLE | 13.0 | Recovery | 4.0 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.9.0.TKFEUXM/miui_SWEETEEAGlobal_V14.0.9.0.TKFEUXM_79417d5d99_13.0.zip) | [OD](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/ERCru8wkhO9EkZyuX8CDoHABdPxwx6PrD5nuKT8HjajEyw?e=wvIKVS) |
@@ -90,7 +90,7 @@ Released March 2021
 
 <summary>RUSSIA (RU)</summary>
 
-| MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
+|  | Region | Branch | Android | Type | Size | Link | Mirror |
 |:---:|--------|--------|:---:|------|------|------| :---: |
 | **MIUI 14** |
 |`V14.0.2.0.TKFRUXM`| RUSSIA | STABLE | 13 | Recovery | 4.0 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKFRUXM/miui_SWEETRUGlobal_V14.0.2.0.TKFRUXM_9b398954b1_13.0.zip) | [OD](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/EfGMg7mdAJBOmMV8ceQxap8B09SOZCdqxuZ9JZBDlJykUA?e=X6ZHhO) |
@@ -108,7 +108,7 @@ Released March 2021
 
 <summary>TURKEY (TR)</summary>
 
-| MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
+|  | Region | Branch | Android | Type | Size | Link | Mirror |
 |:---:|--------|--------|:---:|------|------|------| :---: |
 | **MIUI 14** |
 |`V14.0.2.0.TKFTRXM`| TURKEY | STABLE | 13 | Recovery | 4.0 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKFTRXM/miui_SWEETTRGlobal_V14.0.2.0.TKFTRXM_4dd7b72cd7_13.0.zip) | [OD](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/ETpCdO-PCoZFg7CxOQXUjdEBeX71XDSicSdzM-rt62hIHA?e=pPOl9M) |
@@ -127,7 +127,7 @@ Released March 2021
 <summary>INDONESIA (ID)</summary>
 
 
-| MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
+|  | Region | Branch | Android | Type | Size | Link | Mirror |
 |:---:|--------|--------|:---:|------|------|------| :---: |
 | **MIUI 14** |
 |`V14.0.2.0.TKFIDXM`| INDONESIA | STABLE | 13 | Recovery | 4.0 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.2.0.TKFIDXM/miui_SWEETIDGlobal_V14.0.2.0.TKFIDXM_df828d33c5_13.0.zip) | [OD](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/EcXQwAYkiGxLhfolD0XTFNEBeZQvotmKnvZvqyJkBbOW7g?e=gkhYbE) |
@@ -145,7 +145,7 @@ Released March 2021
 
 <summary>TAIWAN (TW)</summary>
 
-| MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
+|  | Region | Branch | Android | Type | Size | Link | Mirror |
 |:---:|--------|--------|:---:|------|------|------| :---: |
 | **MIUI 14** |
 |`V14.0.4.0.TKFTWXM`| TAIWAN | STABLE | 13 | Recovery | 3.9 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.4.0.TKFTWXM/miui_SWEETTWGlobal_V14.0.4.0.TKFTWXM_dc65b5ca7d_13.0.zip) | [OD](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/EdYr-E2DNZZIgvSfukgu2DQBTbp4vrS3BvwonapYnITp_A?e=323SBV) |
@@ -164,7 +164,7 @@ Released March 2021
 <summary>INDIA (IN)</summary>
 Redmi Note 10 Pro / Pro Max India
 
-| MIUI | Region | Branch | Android | Type | Size | Link | Mirror |
+|  | Region | Branch | Android | Type | Size | Link | Mirror |
 |:---:|--------|--------|:---:|------|------|------| :---: |
 | **MIUI 14** |
 |`V14.0.1.0.TKFINXM`| INDIA | STABLE | 13 | Recovery | 3.9 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V14.0.1.0.TKFINXM/miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0.zip) | [OD](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/ETkVnkjMGBdLuI76l2zH7bwBwRLVwn1qr4LzViJviph0Zw?e=DQVNr7) |
