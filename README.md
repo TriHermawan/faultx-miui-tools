@@ -283,8 +283,8 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 > - If the ROM does not match,relocking may brick your phone (bootloop or hard brick).
 
 > [!NOTE]
-> - Charge your battery to at least 50%.
 > - Back up all your data beforehand.
+> - Charge your battery to at least 50%.
 
 ### Steps to Relock the Bootloader
 
