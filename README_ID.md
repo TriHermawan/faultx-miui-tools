@@ -5,8 +5,6 @@
 
 [***English***](./README.md) | **Bahasa Indonesia**
 
----
-
 ![](sweet.png)
 
 
