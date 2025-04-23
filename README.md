@@ -39,6 +39,15 @@ Released March 2021
 > [!NOTE]
 > If you are currently or previously using a ROM/Custom ROM (AOSP) and want to flash MIUI to MIUI 14/13/12, I recommend doing [**this**](https://t.me/faultx003/303) . The goal is to ensure that when you're on MIUI, you won't encounter a message like this: _"Find Device storage corrupt. Your device is unsafe now."_
 
+>[!Caution]
+>Make sure the file name is `"SWEET"` and not `"SWEETK6A"`.
+>
+>✅ Redmi Note 10 Pro `(SWEET)` : `miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip`
+>
+>❌ Redmi Note 12 Pro 4G `(SWEETK6A)` : `miui_SWEETK6AGlobal_V14.0.5.0.THGMIXM_0ee8974df3_13.0.zip`
+>
+>Flashing the wrong file may damage your device or cause it to brick.
+
 <details>
 
 <summary>GLOBAL (MI)</summary>
