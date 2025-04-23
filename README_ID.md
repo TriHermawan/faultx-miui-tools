@@ -1,7 +1,7 @@
 >[!Caution]
-> Saya tidak bertanggung jawab atas apa pun yang terjadi pada perangkat Anda. Lakukan dengan risiko Anda sendiri!
+>Saya tidak bertanggung jawab atas apa pun yang terjadi pada perangkat Anda. Lakukan dengan risiko Anda sendiri!
 >
-> [`FaultX`](https://t.me/faultx003)
+>[`FaultX`](https://t.me/faultx003)
 
 [***English***](./README.md) | **Bahasa Indonesia**
 
