@@ -1,7 +1,5 @@
 >[!Caution]
->Your warranty is now void.
->
->I am not responsible for bricked devices, dead SD cards,thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included before flashing it! YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
+> I am not responsible for anything happened to your device do at your own risk!
 >
 > [`FaultX`](https://t.me/faultx003)
 
