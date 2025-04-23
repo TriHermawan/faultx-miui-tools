@@ -33,10 +33,10 @@ Released March 2021
 
 # MIUI Official ROMs Archive | Redmi Note 10 Pro (sweet)
 
-> [!WARNING]
-> Pastikan untuk mengunduh firmware yang sesuai dengan model ponsel kamu. kamu dapat mengetahui model ponsel kamu dari Setelan > Tentang ponsel > Versi MIUI (Misalnya: Dalam versi MIUI `V14.0.9.0.TKFMIXM` ‘<ins>**MI**</ins>’ mewakili wilayah ponsel kamu, yaitu <ins>**Global**</ins>).
+>[!WARNING]
+>Pastikan untuk mengunduh firmware yang sesuai dengan model ponsel kamu. kamu dapat mengetahui model ponsel kamu dari Setelan > Tentang ponsel > Versi MIUI (Misalnya: Dalam versi MIUI `V14.0.9.0.TKFMIXM` ‘<ins>**MI**</ins>’ mewakili wilayah ponsel kamu, yaitu <ins>**Global**</ins>).
 
-> [!NOTE]
+> !NOTE]
 > Jika saat ini atau sebelumnya kamu menggunakan ROM/ROM Kustom (AOSP) dan ingin mem-flash MIUI ke MIUI 14/13/12, saya sarankan untuk melakukan [**ini**](https://t.me/faultx003/303). Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak akan menemukan pesan seperti ini: _"Find Device storage corrupt. Your device is unsafe now."_
 
 >[!Caution]
