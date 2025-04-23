@@ -473,31 +473,33 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 
 
 
-## Custom ROM (AOSP)
+## Custom ROM
 
 <details>
 
 <summary>Custom ROM (AOSP)</summary>
 
-- [LineageOS](https://download.lineageos.org/devices/sweet/builds) | [XDA](https://forum.xda-developers.com/t/rom-13-official-lineageos-20-for-redmi-note-10-pro-redmi-note-10-pro-max.4622953/)
-- [LineageOS MicroG](https://download.lineage.microg.org/sweet/)
-- [PixelOS](https://pixelos.net/download/sweet)
-- [PixelOS-Nethunter (Unofficial) ](https://xdaforums.com/t/rom-13-pixelos-13-nethunter.4608645/)
-- [ArrowOS](https://arrowos.net/download/sweet)
-- [crDroid](https://crdroid.net/downloads#sweet)
-- [EvolutionX](https://evolution-x.org/device/sweet)
-- [Pixel Experience](https://download.pixelexperience.org/sweet)
-- [ProjectElixir](https://projectelixiros.com/device/sweet)
-- [HavocOS](https://havoc-os.com/device#sweet)
-- [Bliss Roms](https://downloads.blissroms.org/download/sweet/)
-- [CarbonROM](https://get.carbonrom.org/device-sweet.html)
-- [PixelPlusUI](https://ppui.site/device/sweet)
-- [DotOS](https://www.droidontime.com/devices/sweet)
-- [Corvus OS](https://downloads.corvusrom.com/?dir=sweet)
-- [Project-Xtended](https://downloads.project-xtended.org/?dir=sweet)
-- [NusantaraProject](https://nusantararom.org/device/sweet/)
-- [VoltageOS](https://www.voltageos.com/devices/download/sweet)
-- [Project Pixelage](https://t.me/lemezohaibdesk)
+|  | Status | Maintainer | Support | Link |
+|------------|--------|:---:|---------|----------|
+| ArrowOS | Official (Discontinued) | [Daniel](https://t.me/daniml3) | [Telegram](https://t.me/arrowsweet) | [Download-archive](https://t.me/faultx003/146) |
+| BlissRoms | Official | [Babu Frik](https://t.me/RedmiNote10ProChannel/2063) | [Telegram](https://t.me/Unofficial_X2/) | [Download](https://downloads.blissroms.org/download/sweet/) |
+| CarbonROM | Official | - | - | [Download](https://get.carbonrom.org/device-sweet.html) |
+| Corvus OS | Official (Discontinued) | - | - | - |
+| crDroid | Official | [Pranav Vashi](https://t.me/neobuddy89) | [Telegram](http://t.me/crdroid_sweet) | [Download](https://crdroid.net/downloads#sweet) |
+| dotOS | Official | [Adarsh Grewal](https://t.me/grewal) | [XDA](https://xdaforums.com/t/rom-official-dotos-android-11-sweet.4271097/) | [Download](https://www.droidontime.com/devices/sweet) |
+| EvolutionX | Official | [zaid khan](https://t.me/zaidkhan0997) | [Telegram](https://t.me/RedmiNote10ProChannel/2227) - [XDA](https://xdaforums.com/t/rom-14-0_r67-sweet-official-evolution-x-16-11-24.4395847/) | [Download](https://evolution-x.org/downloads/sweet) - [SF](https://sourceforge.net/projects/evolution-x/files/sweet/) |
+| HavocOS | Official (Discontinued) | - | - | [Download-archive](https://t.me/faultx003/128) |
+| LineageOS | Official | [aryan](https://t.me/aryannn999) & [Daniel](https://t.me/daniml3) | [Telegram](https://t.me/lineagesweet) - [XDA](https://xdaforums.com/t/rom-15-official-lineageos-22-for-redmi-note-10-pro-redmi-note-10-pro-max.4713978/) | [Download](https://download.lineageos.org/devices/sweet/builds) |
+| LineageOS MicroG | - | - | - | [Download](https://download.lineage.microg.org/sweet/) |
+| NusantaraProject | Official | [BMW](https://t.me/bmwtheseries) | [Telegram](https://t.me/NusantaraSweet) | [Download](https://nusantararom.org/device/sweet/) |
+| Pixel Experience | Official (Discontinued) | [Pulkit Agarwal](https://t.me/Pulkit077) | [Telegram](https://t.me/RedmiNote10ProChannel/1774) | [Download](https://get.pixelexperience.org/sweet) |
+| PixelOS | Official | [Aryan](https://t.me/Aryannn999) | [Telegram](https://t.me/RedmiNote10ProChannel/2339) | [Download](https://pixelos.net/download/sweet) |
+| PixelOS - Kali NetHunter | Unofficial | [wvthoog](https://xdaforums.com/m/wvthoog.8646824/) | [XDA](https://xdaforums.com/t/rom-13-pixelos-13-nethunter.4608645/) | [Download](https://androidfilehost.com/?fid=10620683726822081624) - [Mirror01](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/EVsOS6OLzZFBhw0U_4KyTzgBoJGNUSErAIys45fPnFwwpg?e=W2BKFW) - [Mirror02](https://cloud03.faultx.workers.dev/download.aspx?file=mPkS5DKwaxcYrer%2Bvvm5tCqMSOCCuswd4wQlRP893Zid2skj%2BCxbHbR8u7qS7yOw&amp;expiry=IY3dN3KWVyWiAtYSNT6fig%3D%3D&amp;mac=f094800c5046e561f5b6769fb722dda0b24c986b713a9b45b7d9c151924e4298)  |
+| PixelPlusUI | Official | Pavan Padamata | [Telegram](https://t.me/pavanbuilds) - [XDA](https://xdaforums.com/t/discontinued-rom-13-0-sweet-pixel-plus-ui-official-aosp.4538895/) | [Download](https://ppui.site/device/sweet) |
+| ProjectElixir | Official | [@pure_soul_kk](https://t.me/pure_soul_kk) | [Telergam](https://t.me/elixir_sweet)| [Download](https://projectelixiros.com/device/sweet) |
+| Project Pixelage | Official | [Zohaib](http://t.me/lemezohaib) | [Telegram](https://t.me/lemezohaibdesk) | [Download](https://sourceforge.net/projects/projectpixelage/files/sweet/) |
+| Project-Xtended | Official (Discontinued) | - | - | [~Download~](https://downloads.project-xtended.org/?dir=sweet/XT) |
+| VoltageOS | Official | [Mr Fox](http://t.me/mrfox2003) | [Telegram](https://t.me/foxbuilds) | [Download](https://www.voltageos.com/devices/download/sweet) |
 
 
 </details>
@@ -512,6 +514,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 
 </details>
 
+## Optional
 
 <details>
 
