@@ -481,7 +481,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 
 <details>
 
-<summary>Custom ROM (AOSP)</summary>
+<summary>Android Open Source Project (AOSP) (AOSP)</summary>
 
 |  | Status | Maintainer | Support | Link |
 |------------|--------|:---:|---------|----------|
@@ -510,11 +510,13 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 
 <details>
 
-<summary>Custom ROM MIUI EU</summary>
+<summary>MIUI Base</summary>
 
-- [MIUI by EU V13.0.15.0.SKFMIXM](https://t.me/mirrorsweet/289)
-- [MIUI by EU V13.0.14.0.SKFMIXM](https://t.me/mirrorsweet/256)
-- [MIUI by EU V12.5.9.0.RKFMIXM](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMNote10Pro_V12.5.9.0.RKFMIXM_v12-11.zip/download)
+|  | Support | MIUI | Android | Download |
+| --- |:---:| :---: | :---: | --- |
+| Xiaomi EU Team | - | MIUI 14 `(V14.0.1.0)` | 13 | [Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv14/xiaomi.eu_multi_HMNote10Pro_V14.0.1.0.TKFMIXM_v14-13.zip/download) |
+|  |  | MIUI 13 `(V13.0.18.0)` | 12 | [Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv13/xiaomi.eu_multi_HMNote10Pro_V13.0.18.0.SKFMIXM_v13-12.zip/download) |
+|  |  | MIUI 12 `(V12.5.9.0)` | 11 | [Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMNote10Pro_V12.5.9.0.RKFMIXM_v12-11.zip/download) |
 
 </details>
 
