@@ -5,7 +5,7 @@
 >
 > [`FaultX`](https://t.me/faultx003)
 
-[English](./README.md) | **Bahasa Indonesia**
+[***English***](./README.md) | **Bahasa Indonesia**
 
 ---
 
