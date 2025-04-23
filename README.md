@@ -42,7 +42,7 @@ Released March 2021
 >[!Caution]
 >Make sure the file name is `"SWEET"` and not `"SWEETK6A"`.
 >
->✅ Redmi Note 10 Pro `(SWEET)` : `miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip`
+>✅ **Redmi Note 10 Pro** `(SWEET)` : `miui_SWEETGlobal_V14.0.8.0.TKFMIXM_3e19ed98ed_13.0.zip`
 >
 >❌ ~Redmi Note 12 Pro 4G~ `(SWEETK6A)` : `miui_SWEETK6AGlobal_V14.0.5.0.THGMIXM_0ee8974df3_13.0.zip`
 >
