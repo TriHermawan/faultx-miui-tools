@@ -1,5 +1,5 @@
 >[!Caution]
-> I am not responsible for anything happened to your device do at your own risk!
+> Saya tidak bertanggung jawab atas apa pun yang terjadi pada perangkat Anda. Lakukan dengan risiko Anda sendiri!
 >
 > [`FaultX`](https://t.me/faultx003)
 
