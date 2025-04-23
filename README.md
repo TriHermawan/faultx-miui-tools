@@ -5,6 +5,8 @@
 >
 > [`FaultX`](https://t.me/faultx003)
 
+**English** | [Bahasa Indonesia](./README_ID.md)
+
 ---
 
 ![](sweet.png)
@@ -36,7 +38,7 @@ Released March 2021
 # MIUI Official ROMs Archive | Redmi Note 10 Pro (sweet)
 
 > [!WARNING]
-> Make sure to download exact firmware for your model. You can discern your model from Settings > About phone > MIUI version (Eg: In MIUI version `V14.0.9.0.TKFMIXM` ‘<ins>**MI**</ins>’ represents your phone region, which is <ins>**Global**</ins>). You can also verify your Xiaomi phone at official site.
+> Make sure to download exact firmware for your model. You can discern your model from Settings > About phone > MIUI version (Eg: In MIUI version `V14.0.9.0.TKFMIXM` ‘<ins>**MI**</ins>’ represents your phone region, which is <ins>**Global**</ins>).
 
 > [!NOTE]
 > If you are currently or previously using a ROM/Custom ROM (AOSP) and want to flash MIUI to MIUI 14/13/12, I recommend doing [**this**](https://t.me/faultx003/303) . The goal is to ensure that when you're on MIUI, you won't encounter a message like this: _"Find Device storage corrupt. Your device is unsafe now."_
@@ -272,7 +274,7 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 ## Mi Unlock Tools (For Unlock Bootloader)
 
 > [!CAUTION]
-> Unlocking the bootloader will <ins>**erase all data**</ins> on your device! Before proceeding, ensure the data you would like to retain is <ins>**backed up**</ins> to your PC and/or your Google account, or equivalent.
+> Unlocking the bootloader will <ins>**erase all data**</ins> on your device! Before proceeding, ensure the data you would like to retain is <ins>**backed up**</ins> to your PC or your Google account, or equivalent.
 
 - [Download](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view)
 
@@ -289,8 +291,8 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
 ### Steps to Relock the Bootloader
 
 1. Install Official MIUI Fastboot ROM:
-   - [Download](https://github.com/TriHermawan/faultx-miui-tools/tree/main#miui-official-roms-archive--redmi-note-10-pro-sweet) the **fastboot** version of MIUI ROM for your device (`.tgz` format).
-   - Use this to ensure your system is clean and official.
+   - [Download](https://github.com/TriHermawan/faultx-miui-tools/tree/main#miui-official-roms-archive--redmi-note-10-pro-sweet) the **fastboot** version of MIUI ROM for your device (`.tgz` format). Use this to ensure your system is clean and official.
+   - Extract file `.tgz`
 
 2. [Download](https://github.com/TriHermawan/faultx-miui-tools/tree/main#miflash-tool) and Install Mi Flash Tool
 
@@ -315,8 +317,9 @@ XDA - [Redmi Note 10 Pro](https://forum.xda-developers.com/f/redmi-note-10-pro.1
   
 
 ## Xiaomi Debloat Tool
-- [XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing) | Need JDK for run (.jar) [Windows, macOS, Linux](https://www.oracle.com/java/technologies/downloads/)
 
+- JDK for run (.jar) [Windows, macOS, Linux](https://www.oracle.com/java/technologies/downloads/)
+- [XiaomiADBFastbootTools](https://drive.google.com/file/d/1xt1ecKqzakHxI6H1K4OEP4-gb2MbU1aI/view?usp=sharing)
 ## ADB & Fastboot Driver (Windows)
 - [ADB](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view)
 - [Platform-tools](https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip)
