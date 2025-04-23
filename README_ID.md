@@ -481,7 +481,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 
 <details>
 
-<summary>Android Open Source Project (AOSP) (AOSP)</summary>
+<summary>Android Open Source Project (AOSP)</summary>
 
 |  | Status | Maintainer | Support | Link |
 |------------|--------|:---:|---------|----------|
