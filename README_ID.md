@@ -181,7 +181,7 @@ Redmi Note 10 Pro / Pro Max India
 ## MIUI Debloated
 
 > [!NOTE]
-> Pastikan komputer kamu telah menginstal [`adb-fastboot (drivers)`](https://github.com/TriHermawan/faultx-miui-tools#adb--fastboot-windows) dengan benar.
+> Pastikan komputer kamu telah terinstal [`adb-fastboot (drivers)`](https://github.com/TriHermawan/faultx-miui-tools#adb--fastboot-windows) dengan benar.
 
   <details>
 
