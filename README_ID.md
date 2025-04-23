@@ -1,9 +1,9 @@
->[!Caution]
->Saya tidak bertanggung jawab atas apa pun yang terjadi pada perangkat kamu. Lakukan dengan risiko kamu sendiri!
->
->[`FaultX`](https://t.me/faultx003)
+**[English](./README.md) | Bahasa Indonesia**
 
-[***English***](./README.md) | **Bahasa Indonesia**
+> [!Caution]
+> Saya tidak bertanggung jawab atas apa pun yang terjadi pada perangkat kamu. Lakukan dengan risiko kamu sendiri!
+>
+> [`FaultX`](https://t.me/faultx003)
 
 ![](sweet.png)
 
