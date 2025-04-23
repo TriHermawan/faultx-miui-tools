@@ -1,7 +1,7 @@
 >[!Caution]
 >I am not responsible for anything happened to your device do at your own risk!
 >
-> [`FaultX`](https://t.me/faultx003)
+>[`FaultX`](https://t.me/faultx003)
 
 **English** | [***Bahasa Indonesia***](./README_ID.md)
 
