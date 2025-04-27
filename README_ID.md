@@ -461,7 +461,7 @@ Architecture: `arm64`.
 |BiTGApps| [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) | [Download](https://bitgapps.io/) |
 
 
-## Root
+## Root `[#]`
 
 - [Magisk](https://github.com/topjohnwu/Magisk/releases) Official by [topjohnwu](https://github.com/topjohnwu) 
 
