@@ -7,8 +7,9 @@
 
 ![](sweet.png)
 
+![]()
 
-# Xiaomi Redmi Note 10 Pro (sweet)
+# Xiaomi Redmi Note 10 Pro (sweet) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Xiaomi_logo_%282021-%29.svg/512px-Xiaomi_logo_%282021-%29.svg.png" alt="Alt Text" width="30" height="30">
 Released March 2021
 
 |  | Spesification |
@@ -447,7 +448,7 @@ Lalu tekan Enter. Pastikan `device ID` kamu muncul, yang berarti perangkat kamu 
 </details>
 
 
-## GApps (Google Apps) 
+## GApps (Google Apps) ![](https://img.icons8.com/fluency/30/google-play-store-new.png)
 
 > [!CAUTION]
 > Pastikan untuk menginstal paket GApps yang sesuai dengan versi OS Android perangkat kamu.  
@@ -477,7 +478,9 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 - [Method 01](https://gist.github.com/shamxl/b14149ac542864779af4bceb4d6e28bb#file-hiderootandpassstrong-md) by [shamxl](https://gist.github.com/shamxl)
 
 
-## Custom ROM
+## Custom ROM <img src="" alt="Alt Text" width="30" height="30">
+
+
 
 <details>
 
