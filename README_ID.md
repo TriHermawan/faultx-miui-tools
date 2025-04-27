@@ -478,9 +478,7 @@ This module tries to fix Play Integrity and SafetyNet verdicts to get a valid at
 - [Method 01](https://gist.github.com/shamxl/b14149ac542864779af4bceb4d6e28bb#file-hiderootandpassstrong-md) by [shamxl](https://gist.github.com/shamxl)
 
 
-## Custom ROM <img src="" alt="Alt Text" width="30" height="30">
-
-
+## Custom ROM
 
 <details>
 
