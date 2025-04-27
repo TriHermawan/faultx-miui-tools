@@ -4,6 +4,15 @@
 >
 > [`FaultX`](https://t.me/faultx003)
 
+
+## Table of Contents
+
+- [Forum](#forum)
+
+
+
+
+
 ![](sweet.png)
 
 # Xiaomi Redmi Note 10 Pro (sweet)
